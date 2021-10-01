@@ -20,3 +20,4 @@ app.raindrop.io###react > div.page-18wz.page-u56r > div.splitview-2t_-.s-40HK > 
 ||mrazens.com^$empty
 ||betteradsystem.com^$empty
 ||syndication.realsrv.com^$empty
+||forflygonom.com^$empty

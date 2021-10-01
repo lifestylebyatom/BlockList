@@ -1,3 +1,12 @@
+! Title: Atom User Rule
+! Description: Custom User Rule By Atom
+! Version: 0.0.0.1
+! TimeUpdated: 2021-10-01T00:00:00+00:00
+! Expires: 1 days (update frequency)
+! Homepage: 
+! License: 
+!
+
 app.raindrop.io###react > div.page-18wz.page-u56r > div.splitview-2t_-.s-40HK > aside.svSidebar:first-child > a.upgrade-1DKr:nth-child(3)
 ||doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.container.text-center.padding-top-15 > div.row > div.col-md-12:first-child
 ||doujinpost.com###light2

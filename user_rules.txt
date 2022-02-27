@@ -30,9 +30,9 @@ app.raindrop.io###react > div.page-18wz.page-u56r > div.splitview-2t_-.s-40HK > 
 ||baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > div.related-articles-head:last-child > h3:first-child
 ||baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > iframe:nth-child(6)
 
-||makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
-||makimaaaaa.com###wbnn
-||makimaaaaa.com###wpdevar_comment_1
+makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
+makimaaaaa.com###wbnn
+makimaaaaa.com###wpdevar_comment_1
 
 ||mrazens.com^$empty
 ||betteradsystem.com^$empty

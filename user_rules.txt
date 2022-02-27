@@ -1,8 +1,8 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 0.0.0.3
-! TimeUpdated: 2022-02-27T00:00:00+00:00
-! Expires: 1 days (update frequency)
+! Version: 202202280126
+! TimeUpdated: 2022-02-28T00:00:00+00:00
+! Expires: 7 days (update frequency)
 ! Homepage: 
 ! License: 
 !
@@ -33,6 +33,8 @@ app.raindrop.io###react > div.page-18wz.page-u56r > div.splitview-2t_-.s-40HK > 
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
 makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
+manhwathailand.com##header.header:nth-child(3) > center:last-child
+manhwathailand.com###wbnn
 
 ||mrazens.com^$empty
 ||betteradsystem.com^$empty

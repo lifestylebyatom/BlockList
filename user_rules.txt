@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 0.0.0.1
-! TimeUpdated: 2021-10-01T00:00:00+00:00
+! Version: 0.0.0.3
+! TimeUpdated: 2022-02-27T00:00:00+00:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: 
@@ -20,14 +20,27 @@ app.raindrop.io###react > div.page-18wz.page-u56r > div.splitview-2t_-.s-40HK > 
 ||dotnetfiddle.net###sponsor-3
 ||108read.com##div.ads:nth-child(7)
 ||108read.com###comments
-||108read.com###post-2850 > div.entry-content.entry-content-single.maincontent:nth-child(3) > div.chdesc:first-child > p
+||baobua.com###divExoLayerWrapper
+||baobua.com###divExoLayerWrapper
+||baobua.com###hctab1 > div.ad-ex:nth-child(2)
 ||baobua.com###fixed-social-network
-||baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > div.related-articles-head:last-child
+||baobua.com##div:nth-child(7) > div.fIfaLvM8:last-child
+||baobua.com###fix_scale > div.inner > div.grid > div.grid__item.large--three-twelfths.medium--one-whole.small--one-whole:last-child > div.blog-sidebar > div.list-categories:first-child > iframe.na:nth-child(3)
+||baobua.com###fix_scale > div.inner > div.grid > div.grid__item.large--three-twelfths.medium--one-whole.small--one-whole:last-child > div.blog-sidebar > div.list-categories:first-child > iframe.na:last-child
 ||baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > div.related-articles-head:last-child > h3:first-child
 ||baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > iframe:nth-child(6)
+
+||makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
+||makimaaaaa.com###wbnn
+||makimaaaaa.com###wpdevar_comment_1
 
 ||mrazens.com^$empty
 ||betteradsystem.com^$empty
 ||syndication.realsrv.com^$empty
 ||forflygonom.com^$empty
 ||lotto432.com^$empty
+||mayalounge.net^$empty
+||approvalmotion.com^$empty
+||trjmokorza.com^$empty
+||hurirk.net^$empty
+||ecotrackings.com^$empty

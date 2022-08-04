@@ -1,16 +1,37 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220804155614
-! TimeUpdated: 2022-08-04T15:56:14+07:00
+! Version: 20220805000011
+! TimeUpdated: 2022-08-05T00:00:11+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
 
+||adcolony.com^$empty
 108read.com###comments
 108read.com##div.ads:nth-child(7)
+alpha-hen.com###colophon > div.row.ez-footer-row:first-child > div.col-sm-4:nth-child(2)
+alpha-hen.com###comment
+alpha-hen.com###content > div.row > div.col-sm-12:first-child
+alpha-hen.com###custom_html-10 > div.textwidget.custom-html-widget
+alpha-hen.com###custom_html-5 > div.textwidget.custom-html-widget > div.dessert-frame
+alpha-hen.com###custom_html-8 > div.textwidget.custom-html-widget
+alpha-hen.com###custom_html-9 > div.textwidget.custom-html-widget
+alpha-hen.com###header-widget-area
+alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez-col-post.ez-col-post-left:first-child > div.ez-entry-share.eez-desktop:last-child
+alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez-col-post.ez-col-post-left:first-child > div.post-thumnail.ez-p-thum:first-child >div.ez-entry-share.eez-mobile
+alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez-col-post:first-child > div.ez-entry-share:last-child
+alpha-hen.com###sticky-dessert
 animekimi.com###animekimiads1
+animekimi.com###animekimiads2
+animekimi.com###animekimiads3
+animekimi.com###animekimiads4 > a:first-child > img.animekimi-banner.lazy
+animekimi.com###animekimiads5
+animekimi.com###contenedor > div.module:last-child > div.module_home_x:first-child
 animekimi.com###custom_html-2
+animesubthaiz.com###a.fb
+animesubthaiz.com###banner
 app.raindrop.io###react > div.page-18wz.page-u56r > div.splitview-2t_-.s-40HK > aside.svSidebar:first-child > a.upgrade-1DKr:nth-child(3)
+bakaman.net##div.wrap:nth-child(2) > div.body-wrap > center:nth-child(2)
 baobua.com###divExoLayerWrapper
 baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > div.related-articles-head:last-child > h3:first-child
 baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > iframe:nth-child(6)
@@ -31,12 +52,27 @@ makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
 manga-lemon.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 manga-lemon.com##div.wrap:first-child > div.body-wrap > footer.site-footer:nth-child(4)
+mangathai.com###ads728x90top
 manhwathailand.com###wbnn
 manhwathailand.com##header.header:nth-child(3) > center:last-child
 manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln:nth-child(8)
+manhwathailand.com##main:nth-child(5) > div.content:nth-child(2) > div.ads:nth-child(2)
+mawtoload.com###content > div.code-block.code-block-4:first-child
+mawtoload.com##div.code-block.code-block-2.ai-close.ai-close-fit:nth-child(6) > a:last-child > img.aligncenter.wp-image-27888.size-full
+mawtoload.com##div.code-block.code-block-3.ai-close.ai-close-fit:nth-child(7) > a:last-child > img.aligncenter.wp-image-27879.size-full
+miku-doujin.com##div.container.text-center.mb-3:nth-child(4)
+miku-doujin.com##div.container.text-center.mb-3:nth-child(5)
+miku-doujin.com##div.container:nth-child(5) > div.row > div.col-12.col-md-9:nth-child(2) > div.card:first-child > div.card-body:last-child > div.text-center.mb-3:first-child
+miku-doujin.com##div.container:nth-child(6) > div.row > div.col-12.col-md-9:nth-child(2) > div.card:first-child > div.card-body:last-child > div.text-center.mb-3:first-child
 niceoppai.net###fblbx
+niceoppai.net###sct_content > div.fb-comment-box
+niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(4) > div.fb-comment-box:nth-child(6)
 niceoppai.net###text-33 > div.textwidget > center
 niceoppai.net###text-33
 niceoppai.net###text-90
+orztoons.com###ads728x90top
+secufiles.com###at-custom-sidebar > div.at-custom-sidebar-btns:last-child
+series-dd.co###ads728x90top
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
 typingstudy.com###at4-share
+xn--thepratebay-fcb.se###at4-share

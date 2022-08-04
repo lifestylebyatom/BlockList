@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220804154305
-! TimeUpdated: 2022-08-04T15:43:05+07:00
+! Version: 20220804155614
+! TimeUpdated: 2022-08-04T15:56:14+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -29,6 +29,8 @@ doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.c
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
 makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
+manga-lemon.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
+manga-lemon.com##div.wrap:first-child > div.body-wrap > footer.site-footer:nth-child(4)
 manhwathailand.com###wbnn
 manhwathailand.com##header.header:nth-child(3) > center:last-child
 manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln:nth-child(8)

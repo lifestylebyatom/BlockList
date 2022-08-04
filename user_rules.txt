@@ -1,48 +1,40 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 202202280126
-! TimeUpdated: 2022-02-28T00:00:00+00:00
-! Expires: 7 days (update frequency)
+! Version: 20220804154305
+! TimeUpdated: 2022-08-04T15:43:05+07:00
+! Expires: 1 days (update frequency)
 ! Homepage: 
-! License: 
-!
+! License: MIT License
 
+108read.com###comments
+108read.com##div.ads:nth-child(7)
+animekimi.com###animekimiads1
+animekimi.com###custom_html-2
 app.raindrop.io###react > div.page-18wz.page-u56r > div.splitview-2t_-.s-40HK > aside.svSidebar:first-child > a.upgrade-1DKr:nth-child(3)
-||doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.container.text-center.padding-top-15 > div.row > div.col-md-12:first-child
-||doujinpost.com###light2
-||doujinpost.com###light
-||doujinpost.com##div.footer-row:nth-child(4)
-||doujinpost.com##footer.text-muted:nth-child(3) > div.container.text-center:last-child
-||doujinpost.com###post-10844 > center:nth-child(4) > div.col-md-12.text-center > center
-||tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
-||typingstudy.com###at4-share
-||animekimi.com###animekimiads1
-||dotnetfiddle.net###sponsor-3
-||108read.com##div.ads:nth-child(7)
-||108read.com###comments
-||baobua.com###divExoLayerWrapper
-||baobua.com###divExoLayerWrapper
-||baobua.com###hctab1 > div.ad-ex:nth-child(2)
-||baobua.com###fixed-social-network
-||baobua.com##div:nth-child(7) > div.fIfaLvM8:last-child
-||baobua.com###fix_scale > div.inner > div.grid > div.grid__item.large--three-twelfths.medium--one-whole.small--one-whole:last-child > div.blog-sidebar > div.list-categories:first-child > iframe.na:nth-child(3)
-||baobua.com###fix_scale > div.inner > div.grid > div.grid__item.large--three-twelfths.medium--one-whole.small--one-whole:last-child > div.blog-sidebar > div.list-categories:first-child > iframe.na:last-child
-||baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > div.related-articles-head:last-child > h3:first-child
-||baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > iframe:nth-child(6)
-
+baobua.com###divExoLayerWrapper
+baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > div.related-articles-head:last-child > h3:first-child
+baobua.com###fix_scale > div.inner > div.grid > article.grid__item.large--nine-twelfths.medium--one-whole.small--one-whole:first-child > div.related-articles:last-child > iframe:nth-child(6)
+baobua.com###fix_scale > div.inner > div.grid > div.grid__item.large--three-twelfths.medium--one-whole.small--one-whole:last-child > div.blog-sidebar > div.list-categories:first-child > iframe.na:last-child
+baobua.com###fix_scale > div.inner > div.grid > div.grid__item.large--three-twelfths.medium--one-whole.small--one-whole:last-child > div.blog-sidebar > div.list-categories:first-child > iframe.na:nth-child(3)
+baobua.com###fixed-social-network
+baobua.com###hctab1 > div.ad-ex:nth-child(2)
+baobua.com##div:nth-child(7) > div.fIfaLvM8:last-child
+dotnetfiddle.net###sponsor-3
+doujinpost.com###light
+doujinpost.com###light2
+doujinpost.com###post-10844 > center:nth-child(4) > div.col-md-12.text-center > center
+doujinpost.com##div.footer-row:nth-child(4)
+doujinpost.com##footer.text-muted:nth-child(3) > div.container.text-center:last-child
+doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.container.text-center.padding-top-15 > div.row > div.col-md-12:first-child
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
 makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
-manhwathailand.com##header.header:nth-child(3) > center:last-child
 manhwathailand.com###wbnn
-
-||mrazens.com^$empty
-||betteradsystem.com^$empty
-||syndication.realsrv.com^$empty
-||forflygonom.com^$empty
-||lotto432.com^$empty
-||mayalounge.net^$empty
-||approvalmotion.com^$empty
-||trjmokorza.com^$empty
-||hurirk.net^$empty
-||ecotrackings.com^$empty
+manhwathailand.com##header.header:nth-child(3) > center:last-child
+manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln:nth-child(8)
+niceoppai.net###fblbx
+niceoppai.net###text-33 > div.textwidget > center
+niceoppai.net###text-33
+niceoppai.net###text-90
+tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
+typingstudy.com###at4-share

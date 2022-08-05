@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220806020401
-! TimeUpdated: 2022-08-06T02:04:01+07:00
+! Version: 20220806021535
+! TimeUpdated: 2022-08-06T02:15:35+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -49,6 +49,7 @@ doujinpost.com###post-10844 > center:nth-child(4) > div.col-md-12.text-center > 
 doujinpost.com##div.footer-row:nth-child(4)
 doujinpost.com##footer.text-muted:nth-child(3) > div.container.text-center:last-child
 doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.container.text-center.padding-top-15 > div.row > div.col-md-12:first-child
+hdhd154.net###thema_wrapper > div.at-body:last-child > div.at-container > div.at-content:first-child > div.col-md-12.mobile-banner:nth-child(7) > section.row.clearfix.top_banner
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
 makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
@@ -93,9 +94,13 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="1688sagame"]
 *##[href*="512xiaojin"]
 *##[href*="8xbet"]
+*##[href*="apb17"]
+*##[href*="ask-toonkor"]
 *##[href*="berlin777"]
 *##[href*="boda8th"]
 *##[href*="brazil999"]
+*##[href*="btq-rrr"]
+*##[href*="fair-1285"]
 *##[href*="hotgraph88"]
 *##[href*="hydra8881"]
 *##[href*="juad888"]
@@ -106,11 +111,15 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="lotto432s"]
 *##[href*="lotto77s"]
 *##[href*="mahagame88"]
+*##[href*="momo248"]
 *##[href*="newyork888"]
 *##[href*="newyork888s"]
+*##[href*="ok-5252"]
+*##[href*="onep-1212"]
 *##[href*="panama888"]
 *##[href*="qq101"]
 *##[href*="qq288"]
+*##[href*="rmfls7942"]
 *##[href*="sagame350"]
 *##[href*="sagame66"]
 *##[href*="sexygame1688"]
@@ -118,6 +127,8 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="sexygame666"]
 *##[href*="slot1234"]
 *##[href*="slotheng"]
+*##[href*="sm-kr"]
+*##[href*="spin559"]
 *##[href*="ss350"]
 *##[href*="ssgame350"]
 *##[href*="ssgame666"]
@@ -129,13 +140,20 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="ufazeed"]
 *##[href*="usa567"]
 *##[href*="vip168sa1"]
+*##[href*="wb-tt"]
+*##[href*="wn-xg"]
+*##[href*="wnx-ko"]
 *##[href*="line.me/ti/p/~@16881sagame"]
 *##[href*="line.me/ti/p/~@1688sagame"]
 *##[href*="line.me/ti/p/~@512xiaojin"]
 *##[href*="line.me/ti/p/~@8xbet"]
+*##[href*="line.me/ti/p/~@apb17"]
+*##[href*="line.me/ti/p/~@ask-toonkor"]
 *##[href*="line.me/ti/p/~@berlin777"]
 *##[href*="line.me/ti/p/~@boda8th"]
 *##[href*="line.me/ti/p/~@brazil999"]
+*##[href*="line.me/ti/p/~@btq-rrr"]
+*##[href*="line.me/ti/p/~@fair-1285"]
 *##[href*="line.me/ti/p/~@hotgraph88"]
 *##[href*="line.me/ti/p/~@hydra8881"]
 *##[href*="line.me/ti/p/~@juad888"]
@@ -146,11 +164,15 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@lotto432s"]
 *##[href*="line.me/ti/p/~@lotto77s"]
 *##[href*="line.me/ti/p/~@mahagame88"]
+*##[href*="line.me/ti/p/~@momo248"]
 *##[href*="line.me/ti/p/~@newyork888"]
 *##[href*="line.me/ti/p/~@newyork888s"]
+*##[href*="line.me/ti/p/~@ok-5252"]
+*##[href*="line.me/ti/p/~@onep-1212"]
 *##[href*="line.me/ti/p/~@panama888"]
 *##[href*="line.me/ti/p/~@qq101"]
 *##[href*="line.me/ti/p/~@qq288"]
+*##[href*="line.me/ti/p/~@rmfls7942"]
 *##[href*="line.me/ti/p/~@sagame350"]
 *##[href*="line.me/ti/p/~@sagame66"]
 *##[href*="line.me/ti/p/~@sexygame1688"]
@@ -159,6 +181,8 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@sexygame666"]
 *##[href*="line.me/ti/p/~@slot1234"]
 *##[href*="line.me/ti/p/~@slotheng"]
+*##[href*="line.me/ti/p/~@sm-kr"]
+*##[href*="line.me/ti/p/~@spin559"]
 *##[href*="line.me/ti/p/~@ss350"]
 *##[href*="line.me/ti/p/~@ssgame350"]
 *##[href*="line.me/ti/p/~@ssgame666"]
@@ -170,4 +194,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@ufazeed"]
 *##[href*="line.me/ti/p/~@usa567"]
 *##[href*="line.me/ti/p/~@vip168sa1"]
+*##[href*="line.me/ti/p/~@wb-tt"]
+*##[href*="line.me/ti/p/~@wn-xg"]
+*##[href*="line.me/ti/p/~@wnx-ko"]
 ! Auto Gen - End

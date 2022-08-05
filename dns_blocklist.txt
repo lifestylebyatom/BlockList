@@ -1,6 +1,6 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 202208060018
+! Version: 202208060025
 ! TimeUpdated: 2022-08-06T00:18:16+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
@@ -8,15 +8,7 @@
 
 
 # Ads - Start
-||adcolony.com^
-||approvalmotion.com^
-||betteradsystem.com^
-||ecotrackings.com^
-||forflygonom.com^
-||hurirk.net^
-||mrazens.com^
-||syndication.realsrv.com^
-||trjmokorza.com^
+
 # Ads - End
 
 # Casino - Start

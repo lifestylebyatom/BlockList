@@ -1,19 +1,176 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 0.0.0.2
-! TimeUpdated: 2021-01-01T00:00:00+00:00
+! Version: 202208060007
+! TimeUpdated: 2022-08-06T00:07:41+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
-! License: 
-!
+! License: MIT License
 
-||mrazens.com^
-||betteradsystem.com^
-||syndication.realsrv.com^
-||forflygonom.com^
-||lotto432.com^
-||mayalounge.net^
+
+# Ads - Start
+||adcolony.com^
 ||approvalmotion.com^
-||trjmokorza.com^
-||hurirk.net^
+||betteradsystem.com^
 ||ecotrackings.com^
+||forflygonom.com^
+||hurirk.net^
+||mrazens.com^
+||syndication.realsrv.com^
+||trjmokorza.com^
+# Ads - End
+
+# Casino - Start
+||16881sagame.com^empty
+||1688sagame.com^empty
+||512xiaojin.com^empty
+||berlin777.com^empty
+||boda8th.com^empty
+||brazil999.net^empty
+||hotgraph88.co^empty
+||hydra8881.com^empty
+||juad888.co^empty
+||lockdown168.co^empty
+||lotto432.com^empty
+||lotto432s.com^empty
+||lotto77s.com^empty
+||mahagame88.co^empty
+||panama888.co^empty
+||sagame350.bet^empty
+||sagame66.com^empty
+||sexygame1688.com^empty
+||sexygame1688s.com^empty
+||sexygame666.com^empty
+||sexygame666.net^empty
+||slot1234.com^empty
+||slotheng.com^empty
+||ssgame350.bet^empty
+||ssgame666.com^empty
+||ufa1919.info^empty
+||ufa350.bet^empty
+||ufa350s.com^empty
+||ufac4.net^empty
+||ufakicks.net^empty
+||ufazeed.co^empty
+||vip168sa1.com^empty
+# Casino - End
+
+# CasinoRegEX - Start
+/||[0-9]+xiaojin.com^/
+/||berlin[0-9]+.com^/
+/||boda[0-9]+th.com^/
+/||lotto[0-9]+.com^/
+/||lotto[0-9]+s.com^/
+/||slot[0-9]+.com^/
+# CasinoRegEX - End
+
+# CasinoRegEXAUTO - Start
+
+# CasinoRegEXAUTO - End
+
+# hrefADS - Start
+*##[href*="16881sagame"]
+*##[href*="1688sagame"]
+*##[href*="512xiaojin"]
+*##[href*="berlin777"]
+*##[href*="berlin777"]
+*##[href*="brazil999"]
+*##[href*="hotgraph88"]
+*##[href*="hydra8881"]
+*##[href*="juad888"]
+*##[href*="line.me/ti/p/~@UFA350s"]
+*##[href*="lockdown168"]
+*##[href*="lotto432"]
+*##[href*="lotto432s"]
+*##[href*="lotto432s"]
+*##[href*="lotto77s"]
+*##[href*="mahagame88"]
+*##[href*="panama888"]
+*##[href*="sagame350"]
+*##[href*="sagame66"]
+*##[href*="sexygame1688"]
+*##[href*="sexygame1688s"]
+*##[href*="sexygame666"]
+*##[href*="sexygame666"]
+*##[href*="slot1234"]
+*##[href*="slotheng"]
+*##[href*="ssgame350"]
+*##[href*="ssgame666"]
+*##[href*="ufa1919"]
+*##[href*="ufa350"]
+*##[href*="ufa350s"]
+*##[href*="ufac4"]
+*##[href*="ufakicks"]
+*##[href*="ufazeed"]
+*##[href*="vip168sa1"]
+# hrefADS - End
+
+# hrefCasinoADSAUTO - Start
+*##[href*="16881sagame"]
+*##[href*="1688sagame"]
+*##[href*="512xiaojin"]
+*##[href*="berlin777"]
+*##[href*="boda8th"]
+*##[href*="brazil999"]
+*##[href*="hotgraph88"]
+*##[href*="hydra8881"]
+*##[href*="juad888"]
+*##[href*="lockdown168"]
+*##[href*="lotto432"]
+*##[href*="lotto432s"]
+*##[href*="lotto77s"]
+*##[href*="mahagame88"]
+*##[href*="panama888"]
+*##[href*="sagame350"]
+*##[href*="sagame66"]
+*##[href*="sexygame1688"]
+*##[href*="sexygame1688s"]
+*##[href*="sexygame666"]
+*##[href*="sexygame666"]
+*##[href*="slot1234"]
+*##[href*="slotheng"]
+*##[href*="ssgame350"]
+*##[href*="ssgame666"]
+*##[href*="ufa1919"]
+*##[href*="ufa350"]
+*##[href*="ufa350s"]
+*##[href*="ufac4"]
+*##[href*="ufakicks"]
+*##[href*="ufazeed"]
+*##[href*="vip168sa1"]
+# hrefCasinoADSAUTO - End
+
+# hrefCasinoADSLineAUTO - Start
+*##[href*="line.me/ti/p/~@16881sagame"]
+*##[href*="line.me/ti/p/~@1688sagame"]
+*##[href*="line.me/ti/p/~@512xiaojin"]
+*##[href*="line.me/ti/p/~@berlin777"]
+*##[href*="line.me/ti/p/~@boda8th"]
+*##[href*="line.me/ti/p/~@brazil999"]
+*##[href*="line.me/ti/p/~@hotgraph88"]
+*##[href*="line.me/ti/p/~@hydra8881"]
+*##[href*="line.me/ti/p/~@juad888"]
+*##[href*="line.me/ti/p/~@lockdown168"]
+*##[href*="line.me/ti/p/~@lotto432"]
+*##[href*="line.me/ti/p/~@lotto432s"]
+*##[href*="line.me/ti/p/~@lotto77s"]
+*##[href*="line.me/ti/p/~@mahagame88"]
+*##[href*="line.me/ti/p/~@panama888"]
+*##[href*="line.me/ti/p/~@sagame350"]
+*##[href*="line.me/ti/p/~@sagame66"]
+*##[href*="line.me/ti/p/~@sexygame1688"]
+*##[href*="line.me/ti/p/~@sexygame1688s"]
+*##[href*="line.me/ti/p/~@sexygame666"]
+*##[href*="line.me/ti/p/~@sexygame666"]
+*##[href*="line.me/ti/p/~@slot1234"]
+*##[href*="line.me/ti/p/~@slotheng"]
+*##[href*="line.me/ti/p/~@ssgame350"]
+*##[href*="line.me/ti/p/~@ssgame666"]
+*##[href*="line.me/ti/p/~@ufa1919"]
+*##[href*="line.me/ti/p/~@ufa350"]
+*##[href*="line.me/ti/p/~@ufa350s"]
+*##[href*="line.me/ti/p/~@ufac4"]
+*##[href*="line.me/ti/p/~@ufakicks"]
+*##[href*="line.me/ti/p/~@ufazeed"]
+*##[href*="line.me/ti/p/~@vip168sa1"]
+# hrefCasinoADSLineAUTO - End
+

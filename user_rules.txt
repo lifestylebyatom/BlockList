@@ -1,14 +1,73 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220805141010
-! TimeUpdated: 2022-08-05T14:10:10+07:00
+! Version: 20220806004702
+! TimeUpdated: 2022-08-06T00:47:02+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
 
-manhwathailand.com##header.header:nth-child(3) > br
-manhwathailand.com###wbnn > span.wbnn-close
-manga-bl.com##main:nth-child(4) > div.content:first-child > div.ads
+*##[href*="16881sagame"]
+*##[href*="1688sagame"]
+*##[href*="512xiaojin"]
+*##[href*="berlin777"]
+*##[href*="boda8th"]
+*##[href*="brazil999"]
+*##[href*="hotgraph88"]
+*##[href*="hydra8881"]
+*##[href*="juad888"]
+*##[href*="line.me/ti/p/~@16881sagame"]
+*##[href*="line.me/ti/p/~@1688sagame"]
+*##[href*="line.me/ti/p/~@512xiaojin"]
+*##[href*="line.me/ti/p/~@berlin777"]
+*##[href*="line.me/ti/p/~@boda8th"]
+*##[href*="line.me/ti/p/~@brazil999"]
+*##[href*="line.me/ti/p/~@hotgraph88"]
+*##[href*="line.me/ti/p/~@hydra8881"]
+*##[href*="line.me/ti/p/~@juad888"]
+*##[href*="line.me/ti/p/~@lockdown168"]
+*##[href*="line.me/ti/p/~@lotto432"]
+*##[href*="line.me/ti/p/~@lotto432s"]
+*##[href*="line.me/ti/p/~@lotto77s"]
+*##[href*="line.me/ti/p/~@mahagame88"]
+*##[href*="line.me/ti/p/~@panama888"]
+*##[href*="line.me/ti/p/~@sagame350"]
+*##[href*="line.me/ti/p/~@sagame66"]
+*##[href*="line.me/ti/p/~@sexygame1688"]
+*##[href*="line.me/ti/p/~@sexygame1688s"]
+*##[href*="line.me/ti/p/~@sexygame666"]
+*##[href*="line.me/ti/p/~@slot1234"]
+*##[href*="line.me/ti/p/~@slotheng"]
+*##[href*="line.me/ti/p/~@ssgame350"]
+*##[href*="line.me/ti/p/~@ssgame666"]
+*##[href*="line.me/ti/p/~@ufa1919"]
+*##[href*="line.me/ti/p/~@ufa350"]
+*##[href*="line.me/ti/p/~@ufa350s"]
+*##[href*="line.me/ti/p/~@ufac4"]
+*##[href*="line.me/ti/p/~@ufakicks"]
+*##[href*="line.me/ti/p/~@ufazeed"]
+*##[href*="line.me/ti/p/~@vip168sa1"]
+*##[href*="lockdown168"]
+*##[href*="lotto432"]
+*##[href*="lotto432s"]
+*##[href*="lotto77s"]
+*##[href*="mahagame88"]
+*##[href*="panama888"]
+*##[href*="sagame350"]
+*##[href*="sagame66"]
+*##[href*="sexygame1688"]
+*##[href*="sexygame1688s"]
+*##[href*="sexygame666"]
+*##[href*="slot1234"]
+*##[href*="slotheng"]
+*##[href*="ssgame350"]
+*##[href*="ssgame666"]
+*##[href*="ufa1919"]
+*##[href*="ufa350"]
+*##[href*="ufa350s"]
+*##[href*="ufac4"]
+*##[href*="ufakicks"]
+*##[href*="ufazeed"]
+*##[href*="vip168sa1"]
 ||adcolony.com^$empty
 108read.com###comments
 108read.com##div.ads:nth-child(7)
@@ -53,10 +112,13 @@ doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.c
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
 makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
+manga-bl.com##main:nth-child(4) > div.content:first-child > div.ads
 manga-lemon.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 manga-lemon.com##div.wrap:first-child > div.body-wrap > footer.site-footer:nth-child(4)
 mangathai.com###ads728x90top
+manhwathailand.com###wbnn > span.wbnn-close
 manhwathailand.com###wbnn
+manhwathailand.com##header.header:nth-child(3) > br
 manhwathailand.com##header.header:nth-child(3) > center:last-child
 manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln
 manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln:nth-child(8)

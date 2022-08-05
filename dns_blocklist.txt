@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 202208060007
-! TimeUpdated: 2022-08-06T00:07:41+07:00
+! Version: 202208060018
+! TimeUpdated: 2022-08-06T00:18:16+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -90,7 +90,6 @@
 *##[href*="sexygame1688"]
 *##[href*="sexygame1688s"]
 *##[href*="sexygame666"]
-*##[href*="sexygame666"]
 *##[href*="slot1234"]
 *##[href*="slotheng"]
 *##[href*="ssgame350"]
@@ -124,7 +123,6 @@
 *##[href*="sagame66"]
 *##[href*="sexygame1688"]
 *##[href*="sexygame1688s"]
-*##[href*="sexygame666"]
 *##[href*="sexygame666"]
 *##[href*="slot1234"]
 *##[href*="slotheng"]

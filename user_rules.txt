@@ -1,73 +1,13 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220806004702
-! TimeUpdated: 2022-08-06T00:47:02+07:00
+! Version: 20220806020401
+! TimeUpdated: 2022-08-06T02:04:01+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
 
-*##[href*="16881sagame"]
-*##[href*="1688sagame"]
-*##[href*="512xiaojin"]
-*##[href*="berlin777"]
-*##[href*="boda8th"]
-*##[href*="brazil999"]
-*##[href*="hotgraph88"]
-*##[href*="hydra8881"]
-*##[href*="juad888"]
-*##[href*="line.me/ti/p/~@16881sagame"]
-*##[href*="line.me/ti/p/~@1688sagame"]
-*##[href*="line.me/ti/p/~@512xiaojin"]
-*##[href*="line.me/ti/p/~@berlin777"]
-*##[href*="line.me/ti/p/~@boda8th"]
-*##[href*="line.me/ti/p/~@brazil999"]
-*##[href*="line.me/ti/p/~@hotgraph88"]
-*##[href*="line.me/ti/p/~@hydra8881"]
-*##[href*="line.me/ti/p/~@juad888"]
-*##[href*="line.me/ti/p/~@lockdown168"]
-*##[href*="line.me/ti/p/~@lotto432"]
-*##[href*="line.me/ti/p/~@lotto432s"]
-*##[href*="line.me/ti/p/~@lotto77s"]
-*##[href*="line.me/ti/p/~@mahagame88"]
-*##[href*="line.me/ti/p/~@panama888"]
-*##[href*="line.me/ti/p/~@sagame350"]
-*##[href*="line.me/ti/p/~@sagame66"]
-*##[href*="line.me/ti/p/~@sexygame1688"]
-*##[href*="line.me/ti/p/~@sexygame1688s"]
-*##[href*="line.me/ti/p/~@sexygame666"]
-*##[href*="line.me/ti/p/~@slot1234"]
-*##[href*="line.me/ti/p/~@slotheng"]
-*##[href*="line.me/ti/p/~@ssgame350"]
-*##[href*="line.me/ti/p/~@ssgame666"]
-*##[href*="line.me/ti/p/~@ufa1919"]
-*##[href*="line.me/ti/p/~@ufa350"]
-*##[href*="line.me/ti/p/~@ufa350s"]
-*##[href*="line.me/ti/p/~@ufac4"]
-*##[href*="line.me/ti/p/~@ufakicks"]
-*##[href*="line.me/ti/p/~@ufazeed"]
-*##[href*="line.me/ti/p/~@vip168sa1"]
-*##[href*="lockdown168"]
-*##[href*="lotto432"]
-*##[href*="lotto432s"]
-*##[href*="lotto77s"]
-*##[href*="mahagame88"]
-*##[href*="panama888"]
-*##[href*="sagame350"]
-*##[href*="sagame66"]
-*##[href*="sexygame1688"]
-*##[href*="sexygame1688s"]
-*##[href*="sexygame666"]
-*##[href*="slot1234"]
-*##[href*="slotheng"]
-*##[href*="ssgame350"]
-*##[href*="ssgame666"]
-*##[href*="ufa1919"]
-*##[href*="ufa350"]
-*##[href*="ufa350s"]
-*##[href*="ufac4"]
-*##[href*="ufakicks"]
-*##[href*="ufazeed"]
-*##[href*="vip168sa1"]
+
+! Manual Gen - Start
 ||adcolony.com^$empty
 108read.com###comments
 108read.com##div.ads:nth-child(7)
@@ -112,6 +52,8 @@ doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.c
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
 makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
+manga168.com###ads_fox_bottom
+manga168.com###content > div.wrapper > div.dessert-frame
 manga-bl.com##main:nth-child(4) > div.content:first-child > div.ads
 manga-lemon.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 manga-lemon.com##div.wrap:first-child > div.body-wrap > footer.site-footer:nth-child(4)
@@ -123,6 +65,7 @@ manhwathailand.com##header.header:nth-child(3) > center:last-child
 manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln
 manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln:nth-child(8)
 manhwathailand.com##main:nth-child(5) > div.content:last-child > a:first-child
+manhwathailand.com##main:nth-child(5) > div.content:last-child > div.series:last-child > div.container:last-child > div.series-flex:last-child > div.series-flexright:last-child > div.ads:nth-child(3)
 manhwathailand.com##main:nth-child(5) > div.content:nth-child(2) > div.ads:nth-child(2)
 mawtoload.com###content > div.code-block.code-block-4:first-child
 mawtoload.com##div.code-block.code-block-2.ai-close.ai-close-fit:nth-child(6) > a:last-child > img.aligncenter.wp-image-27888.size-full
@@ -140,6 +83,91 @@ niceoppai.net###text-90
 orztoons.com###ads728x90top
 secufiles.com###at-custom-sidebar > div.at-custom-sidebar-btns:last-child
 series-dd.co###ads728x90top
+th.manytoon.me##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
 typingstudy.com###at4-share
 xn--thepratebay-fcb.se###at4-share
+! Manual Gen - End
+! Auto Gen - Start
+*##[href*="16881sagame"]
+*##[href*="1688sagame"]
+*##[href*="512xiaojin"]
+*##[href*="8xbet"]
+*##[href*="berlin777"]
+*##[href*="boda8th"]
+*##[href*="brazil999"]
+*##[href*="hotgraph88"]
+*##[href*="hydra8881"]
+*##[href*="juad888"]
+*##[href*="kingdom66"]
+*##[href*="lockdown168"]
+*##[href*="lodon168"]
+*##[href*="lotto432"]
+*##[href*="lotto432s"]
+*##[href*="lotto77s"]
+*##[href*="mahagame88"]
+*##[href*="newyork888"]
+*##[href*="newyork888s"]
+*##[href*="panama888"]
+*##[href*="qq101"]
+*##[href*="qq288"]
+*##[href*="sagame350"]
+*##[href*="sagame66"]
+*##[href*="sexygame1688"]
+*##[href*="sexygame1688s"]
+*##[href*="sexygame666"]
+*##[href*="slot1234"]
+*##[href*="slotheng"]
+*##[href*="ss350"]
+*##[href*="ssgame350"]
+*##[href*="ssgame666"]
+*##[href*="ufa1919"]
+*##[href*="ufa350"]
+*##[href*="ufa350s"]
+*##[href*="ufac4"]
+*##[href*="ufakicks"]
+*##[href*="ufazeed"]
+*##[href*="usa567"]
+*##[href*="vip168sa1"]
+*##[href*="line.me/ti/p/~@16881sagame"]
+*##[href*="line.me/ti/p/~@1688sagame"]
+*##[href*="line.me/ti/p/~@512xiaojin"]
+*##[href*="line.me/ti/p/~@8xbet"]
+*##[href*="line.me/ti/p/~@berlin777"]
+*##[href*="line.me/ti/p/~@boda8th"]
+*##[href*="line.me/ti/p/~@brazil999"]
+*##[href*="line.me/ti/p/~@hotgraph88"]
+*##[href*="line.me/ti/p/~@hydra8881"]
+*##[href*="line.me/ti/p/~@juad888"]
+*##[href*="line.me/ti/p/~@kingdom66"]
+*##[href*="line.me/ti/p/~@lockdown168"]
+*##[href*="line.me/ti/p/~@lodon168"]
+*##[href*="line.me/ti/p/~@lotto432"]
+*##[href*="line.me/ti/p/~@lotto432s"]
+*##[href*="line.me/ti/p/~@lotto77s"]
+*##[href*="line.me/ti/p/~@mahagame88"]
+*##[href*="line.me/ti/p/~@newyork888"]
+*##[href*="line.me/ti/p/~@newyork888s"]
+*##[href*="line.me/ti/p/~@panama888"]
+*##[href*="line.me/ti/p/~@qq101"]
+*##[href*="line.me/ti/p/~@qq288"]
+*##[href*="line.me/ti/p/~@sagame350"]
+*##[href*="line.me/ti/p/~@sagame66"]
+*##[href*="line.me/ti/p/~@sexygame1688"]
+*##[href*="line.me/ti/p/~@sexygame1688s"]
+*##[href*="line.me/ti/p/~@sexygame666"]
+*##[href*="line.me/ti/p/~@sexygame666"]
+*##[href*="line.me/ti/p/~@slot1234"]
+*##[href*="line.me/ti/p/~@slotheng"]
+*##[href*="line.me/ti/p/~@ss350"]
+*##[href*="line.me/ti/p/~@ssgame350"]
+*##[href*="line.me/ti/p/~@ssgame666"]
+*##[href*="line.me/ti/p/~@ufa1919"]
+*##[href*="line.me/ti/p/~@ufa350"]
+*##[href*="line.me/ti/p/~@ufa350s"]
+*##[href*="line.me/ti/p/~@ufac4"]
+*##[href*="line.me/ti/p/~@ufakicks"]
+*##[href*="line.me/ti/p/~@ufazeed"]
+*##[href*="line.me/ti/p/~@usa567"]
+*##[href*="line.me/ti/p/~@vip168sa1"]
+! Auto Gen - End

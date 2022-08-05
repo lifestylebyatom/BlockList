@@ -1,12 +1,13 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220805095020
-! TimeUpdated: 2022-08-05T09:50:20+07:00
+! Version: 20220805120813
+! TimeUpdated: 2022-08-05T12:08:13+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 @@||naver.com^
+@@||snapdrop.net^
 ||adcolony.com^$empty
 108read.com###comments
 108read.com##div.ads:nth-child(7)
@@ -56,7 +57,9 @@ manga-lemon.com##div.wrap:first-child > div.body-wrap > footer.site-footer:nth-c
 mangathai.com###ads728x90top
 manhwathailand.com###wbnn
 manhwathailand.com##header.header:nth-child(3) > center:last-child
+manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln
 manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln:nth-child(8)
+manhwathailand.com##main:nth-child(5) > div.content:last-child > a:first-child
 manhwathailand.com##main:nth-child(5) > div.content:nth-child(2) > div.ads:nth-child(2)
 mawtoload.com###content > div.code-block.code-block-4:first-child
 mawtoload.com##div.code-block.code-block-2.ai-close.ai-close-fit:nth-child(6) > a:last-child > img.aligncenter.wp-image-27888.size-full

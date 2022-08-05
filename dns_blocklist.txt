@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 202208060155
-! TimeUpdated: 2022-08-06T01:55:21+07:00
+! Version: 202208060215
+! TimeUpdated: 2022-08-06T02:15:03+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -24,9 +24,13 @@
 ||1688sagame.com^empty
 ||512xiaojin.com^empty
 ||8xbet.io^empty
+||apb17.com^empty
+||ask-toonkor.com^empty
 ||berlin777.com^empty
 ||boda8th.com^empty
 ||brazil999.net^empty
+||btq-rrr.com^empty
+||fair-1285.com^empty
 ||hotgraph88.co^empty
 ||hydra8881.com^empty
 ||juad888.co^empty
@@ -37,11 +41,15 @@
 ||lotto432s.com^empty
 ||lotto77s.com^empty
 ||mahagame88.co^empty
+||momo248.com^empty
 ||newyork888.com^empty
 ||newyork888s.com^empty
+||ok-5252.com^empty
+||onep-1212.com^empty
 ||panama888.co^empty
 ||qq101.com^empty
 ||qq288.we^empty
+||rmfls7942.com^empty
 ||sagame350.bet^empty
 ||sagame66.com^empty
 ||sexygame1688.com^empty
@@ -50,6 +58,8 @@
 ||sexygame666.net^empty
 ||slot1234.com^empty
 ||slotheng.com^empty
+||sm-kr.com^empty
+||spin559.com^empty
 ||ss350.game^empty
 ||ssgame350.bet^empty
 ||ssgame666.com^empty
@@ -61,5 +71,8 @@
 ||ufazeed.co^empty
 ||usa567.cc^empty
 ||vip168sa1.com^empty
+||wb-tt.com^empty
+||wn-xg.com^empty
+||wnx-ko.com^empty
 ! Casino - End
 

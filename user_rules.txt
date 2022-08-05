@@ -1,11 +1,12 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220805000011
-! TimeUpdated: 2022-08-05T00:00:11+07:00
+! Version: 20220805095020
+! TimeUpdated: 2022-08-05T09:50:20+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
 
+@@||naver.com^
 ||adcolony.com^$empty
 108read.com###comments
 108read.com##div.ads:nth-child(7)

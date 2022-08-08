@@ -1,14 +1,14 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220806021535
-! TimeUpdated: 2022-08-06T02:15:35+07:00
+! Version: 20220808234502
+! TimeUpdated: 2022-08-08T23:45:02+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
-||adcolony.com^$empty
+*##[img*="hentai168-GIF-3.gif"]
 108read.com###comments
 108read.com##div.ads:nth-child(7)
 alpha-hen.com###colophon > div.row.ez-footer-row:first-child > div.col-sm-4:nth-child(2)
@@ -50,6 +50,7 @@ doujinpost.com##div.footer-row:nth-child(4)
 doujinpost.com##footer.text-muted:nth-child(3) > div.container.text-center:last-child
 doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.container.text-center.padding-top-15 > div.row > div.col-md-12:first-child
 hdhd154.net###thema_wrapper > div.at-body:last-child > div.at-container > div.at-content:first-child > div.col-md-12.mobile-banner:nth-child(7) > section.row.clearfix.top_banner
+hdhd154.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.at-content > div.col-md-12.mobile-banner:nth-child(7) > section.row.clearfix.top_banner > table > tbody > tr:last-child > td > div.col-md-12.col-sm-12.col-xs-12.text-center.pc-banners
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
 makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
@@ -68,6 +69,7 @@ manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln:nth-child(8)
 manhwathailand.com##main:nth-child(5) > div.content:last-child > a:first-child
 manhwathailand.com##main:nth-child(5) > div.content:last-child > div.series:last-child > div.container:last-child > div.series-flex:last-child > div.series-flexright:last-child > div.ads:nth-child(3)
 manhwathailand.com##main:nth-child(5) > div.content:nth-child(2) > div.ads:nth-child(2)
+manhwathailand.com##main:nth-child(5) > div.content:nth-child(2) > div.container:last-child > div.ads:nth-child(2)
 mawtoload.com###content > div.code-block.code-block-4:first-child
 mawtoload.com##div.code-block.code-block-2.ai-close.ai-close-fit:nth-child(6) > a:last-child > img.aligncenter.wp-image-27888.size-full
 mawtoload.com##div.code-block.code-block-3.ai-close.ai-close-fit:nth-child(7) > a:last-child > img.aligncenter.wp-image-27879.size-full
@@ -85,7 +87,9 @@ orztoons.com###ads728x90top
 secufiles.com###at-custom-sidebar > div.at-custom-sidebar-btns:last-child
 series-dd.co###ads728x90top
 th.manytoon.me##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
+tt-square.com###notification
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
+tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4)
 typingstudy.com###at4-share
 xn--thepratebay-fcb.se###at4-share
 ! Manual Gen - End

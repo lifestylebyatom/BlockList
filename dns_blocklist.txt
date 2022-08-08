@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 202208060215
-! TimeUpdated: 2022-08-06T02:15:03+07:00
+! Version: 202208082340
+! TimeUpdated: 2022-08-08T23:40:26+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License

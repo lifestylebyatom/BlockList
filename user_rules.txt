@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220808234502
-! TimeUpdated: 2022-08-08T23:45:02+07:00
+! Version: 20220809000005
+! TimeUpdated: 2022-08-09T00:00:05+07:00
 ! Expires: 1 days (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -51,11 +51,15 @@ doujinpost.com##footer.text-muted:nth-child(3) > div.container.text-center:last-
 doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.container.text-center.padding-top-15 > div.row > div.col-md-12:first-child
 hdhd154.net###thema_wrapper > div.at-body:last-child > div.at-container > div.at-content:first-child > div.col-md-12.mobile-banner:nth-child(7) > section.row.clearfix.top_banner
 hdhd154.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.at-content > div.col-md-12.mobile-banner:nth-child(7) > section.row.clearfix.top_banner > table > tbody > tr:last-child > td > div.col-md-12.col-sm-12.col-xs-12.text-center.pc-banners
+https://manga689.com/wp-content/uploads/2022/04/hentai168-GIF-3.gif$domain=manga689.com
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
 makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
 manga168.com###ads_fox_bottom
 manga168.com###content > div.wrapper > div.dessert-frame
+manga689.com > div.entry-content.entry-content-single.maincontent:nth-child(4) > div.kln:nth-child(3)
+manga689.com###content > div.wrapper > div.postbody:nth-child(3) > div.kln:first-child
+manga689.com###wbnn
 manga-bl.com##main:nth-child(4) > div.content:first-child > div.ads
 manga-lemon.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 manga-lemon.com##div.wrap:first-child > div.body-wrap > footer.site-footer:nth-child(4)

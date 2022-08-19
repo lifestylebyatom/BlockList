@@ -1,0 +1,86 @@
+! Title: Atom DNS AllowList
+! Description: Custom DNS AllowList By Atom
+! Version: 0.0.0.2
+! TimeUpdated: 2021-01-01T00:00:00+00:00
+! Expires: 1 days (update frequency)
+! Homepage: 
+! License: 
+
+# Work - Start
+
+@@||premier.co.th^$important
+@@||datapro.co.th^$important
+@@||dcs.corp^$important
+@@||uipath.com^$important
+
+# Work - End
+
+# AppService - Start
+
+@@||snapdrop.net^$important
+@@||webtoons.com^$important
+@@||kakaowebtoon.com^$important
+version.home-assistant.io
+/api[0-9]+.mql5.net/
+@@||mql5.io
+@@||mql5.com
+@@||youtube.com
+
+@@service.weather.microsoft.com
+@@edge.microsoft.com
+@@login.microsoftonline.com
+@@outlook.office.com
+@@graph.microsoft.com
+@@imap.gmail.com
+@@time.navy.mi.th
+@@updates.logitech.com
+@@clock.nectec.or.th
+@@client.teamviewer.com
+@@i.instagram.com
+@@/api[0-9]+.hbogoasia.com/
+@@1dot1dot1dot1.cloudflare-dns.com
+@@weatherapi.intl.xiaomi.com
+@@||stockradars.co
+@@||krungsrisecurities.com
+@@||windowsupdate.com
+@@||pool.ntp.org
+@@||bitwarden.com
+@@||dev.azure.com
+@@||kaspersky.com
+@@||nicegram.app
+@@||tuyaus.com
+@@||smetrics.citibank.co.th^$important
+@@||vk.com
+@@||vkuser.net
+@@||googlevideo.com
+@@www.google.com
+@@www.google.co.th
+@@google.com
+@@google.co.th
+@@raw.githubusercontent.com
+@@||duckdns.org^$important
+@@||kaspersky-labs.com
+@@||line-apps.com
+@@||teams.microsoft.com^$important
+@@||github.io
+@@||office365.com
+@@||github.com
+@@||zoom.us
+@@||officeapps.live.com
+# AppService - End
+
+# Game - Start
+@@||netmarble.com^$important
+# Game - End
+
+# AppleService - Start
+@@||apple.com
+@@||apple-dns.net
+@@||icloud.com
+@@weather-data.apple.com
+@@mediaservices.cdn-apple.com
+# AppleService - End
+
+# Webtoon - Start
+@@||naver.com^$important
+# Webtoon - End

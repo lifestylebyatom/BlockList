@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.19.1154
-! TimeUpdated: 2022-08-19T11:54:42+07:00
+! Version: 2022.08.19.1204
+! TimeUpdated: 2022-08-19T12:04:28+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -9,6 +9,9 @@
 
 ! AllowList - Start
 @@||duckdns.org^$important
+@@1dot1dot1dot1.cloudflare-dns.com^$important
+@@www.google.com
+@@www.google.co.th
 ! AllowList - End
 
 ! Work - Start
@@ -36,6 +39,9 @@
 @@||kaspersky-labs.com^$important
 @@||kaspersky.com^$important
 @@||line-apps.com
+@@/api[0-9]+.mql5.net/
+@@||mql5.io
+@@||mql5.com
 ! AppService - End
 
 ! AppleService - Start
@@ -46,16 +52,32 @@
 ! AppleService - End
 
 ! FacebookService - Start
-
+@@/fbkk[0-9]+-[0-9]+.fna.fbcdn.*/
+@@gateway.facebook.com
+@@gateway.instagram.com
+@@geo.instagram.com
+@@graph.facebook.com^$important
+@@graph.instagram.com^$important
+@@graph-video.facebook.com^$important
+@@graph-video.instagram.com^$important
+@@i.instagram.com
 ! FacebookService - End
 
 ! SamsungService - Start
-
+@@/samsungcloudsolution.*/
+@@/time.samsungcloudsolution.*/
+@@||samsungqbe.com
 ! SamsungService - End
 
 ! StreamingService - Start
+@@/api[0-9]+.hbogoasia.com/
+@@/bilibili.*/
+@@/bilicdn[0-9]+.*/
 @@||ais-vidnt.com^$important
+@@||api-global.netflix.com
+@@||biliintl.com
 @@||play-rbcdn.ais.co.th^$important
+@@||viu.com
 ! StreamingService - End
 
 ! Webtoon - Start
@@ -87,6 +109,7 @@
 ! Helium - End
 
 ! UserAdmin - Start
-
+@@||cloudflare-dns.com^$important$ctag=user_admin
+@@||page.link^$ctag=user_admin
 ! UserAdmin - End
 

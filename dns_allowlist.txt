@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.19.1138
-! TimeUpdated: 2022-08-19T11:38:18+07:00
+! Version: 2022.08.19.1147
+! TimeUpdated: 2022-08-19T11:47:32+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -9,7 +9,6 @@
 
 ! AllowList - Start
 @@||duckdns.org^$important
-@@||home-assistant.io^$important
 ! AllowList - End
 
 ! Work - Start
@@ -24,14 +23,26 @@
 ! Work - End
 
 ! AppService - Start
+@@||snapdrop.net^$important
 @@myaccount-cdp.ais.co.th^$important
 @@es.ais.co.th^$important
-@@||play-rbcdn.ais.co.th^$important
-@@||ais-vidnt.com^$important
+@@||home-assistant.io^$important
+@@||stockradars.co^$important
+@@||krungsrisecurities.com^$important
+@@||nicegram.app^$important
+@@||tuyaus.com^$important
+@@||vk.com^$important
+@@||vkuser.net^$important
+@@||kaspersky-labs.com^$important
+@@||kaspersky.com^$important
+@@||line-apps.com
 ! AppService - End
 
 ! AppleService - Start
-
+@@||apple-dns.net
+@@||icloud.com
+@@mediaservices.cdn-apple.com
+@@weather-data.apple.com
 ! AppleService - End
 
 ! FacebookService - Start
@@ -43,15 +54,20 @@
 ! SamsungService - End
 
 ! StreamingService - Start
-
+@@||ais-vidnt.com^$important
+@@||play-rbcdn.ais.co.th^$important
 ! StreamingService - End
 
 ! Webtoon - Start
-
+@@||kakaowebtoon.com^$important
+@@||naver.com^$important
+@@||webtoons.com^$important
 ! Webtoon - End
 
 ! ntpService - Start
 @@||pool.ntp.org^$important
+@@time.windows.com^$important
+@@time.nist.gov^$important
 ! ntpService - End
 
 ! Helium - Start

@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.19.1147
-! TimeUpdated: 2022-08-19T11:47:32+07:00
+! Version: 2022.08.19.1154
+! TimeUpdated: 2022-08-19T11:54:42+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -66,8 +66,8 @@
 
 ! ntpService - Start
 @@||pool.ntp.org^$important
-@@time.windows.com^$important
 @@time.nist.gov^$important
+@@time.windows.com^$important
 ! ntpService - End
 
 ! Helium - Start

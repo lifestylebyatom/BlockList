@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.19.1058
-! TimeUpdated: 2022-08-19T10:58:54+07:00
+! Version: 2022.08.19.1138
+! TimeUpdated: 2022-08-19T11:38:18+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -22,6 +22,33 @@
 @@||lhbank.co.th^$important
 @@||lhb.net^$important
 ! Work - End
+
+! AppService - Start
+@@myaccount-cdp.ais.co.th^$important
+@@es.ais.co.th^$important
+@@||play-rbcdn.ais.co.th^$important
+@@||ais-vidnt.com^$important
+! AppService - End
+
+! AppleService - Start
+
+! AppleService - End
+
+! FacebookService - Start
+
+! FacebookService - End
+
+! SamsungService - Start
+
+! SamsungService - End
+
+! StreamingService - Start
+
+! StreamingService - End
+
+! Webtoon - Start
+
+! Webtoon - End
 
 ! ntpService - Start
 @@||pool.ntp.org^$important

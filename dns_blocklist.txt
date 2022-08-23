@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2022.08.23.1501
-! TimeUpdated: 2022-08-23T15:01:06+07:00
+! Version: 2022.08.23.1504
+! TimeUpdated: 2022-08-23T15:04:39+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -59,6 +59,7 @@ vibestream5.blogspot.com^
 ||ok-5252.com^empty
 ||onep-1212.com^empty
 ||panama888.co^empty
+||pg133.com^empty
 ||qq101.com^empty
 ||qq288.we^empty
 ||rmfls7942.com^empty
@@ -112,6 +113,7 @@ vibestream5.blogspot.com^
 /||ok-[0-9]+.com^/
 /||onep-[0-9]+.com^/
 /||panama[0-9]+.co^/
+/||pg[0-9]+.com^/
 /||qq[0-9]+.com^/
 /||qq[0-9]+.we^/
 /||rmfls[0-9]+.com^/

@@ -1,8 +1,8 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 20220809000005
-! TimeUpdated: 2022-08-09T00:00:05+07:00
-! Expires: 1 days (update frequency)
+! Version: 2022.08.23.1507
+! TimeUpdated: 2022-08-23T15:07:11+07:00
+! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
@@ -58,6 +58,7 @@ makimaaaaa.com###wpdevar_comment_1
 manga168.com###ads_fox_bottom
 manga168.com###content > div.wrapper > div.dessert-frame
 manga689.com > div.entry-content.entry-content-single.maincontent:nth-child(4) > div.kln:nth-child(3)
+manga689.com###content > div.wrapper > div.dessert-frame:first-child > center
 manga689.com###content > div.wrapper > div.postbody:nth-child(3) > div.kln:first-child
 manga689.com###wbnn
 manga-bl.com##main:nth-child(4) > div.content:first-child > div.ads
@@ -125,6 +126,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="ok-5252"]
 *##[href*="onep-1212"]
 *##[href*="panama888"]
+*##[href*="pg133"]
 *##[href*="qq101"]
 *##[href*="qq288"]
 *##[href*="rmfls7942"]
@@ -178,6 +180,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@ok-5252"]
 *##[href*="line.me/ti/p/~@onep-1212"]
 *##[href*="line.me/ti/p/~@panama888"]
+*##[href*="line.me/ti/p/~@pg133"]
 *##[href*="line.me/ti/p/~@qq101"]
 *##[href*="line.me/ti/p/~@qq288"]
 *##[href*="line.me/ti/p/~@rmfls7942"]

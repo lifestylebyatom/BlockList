@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2022.08.26.2124
-! TimeUpdated: 2022-08-26T21:24:24+07:00
+! Version: 2022.08.26.2125
+! TimeUpdated: 2022-08-26T21:25:15+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -118,5 +118,7 @@ vibestream5.blogspot.com^
 
 ! CasinoRegEX - Start
 /ufa[0-9]+.*/
+/ufabet[0-9]+.*/
+/ufabet[0-9]+.*/
 ! CasinoRegEX - End
 

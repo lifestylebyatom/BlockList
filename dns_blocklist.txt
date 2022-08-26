@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2022.08.26.2114
-! TimeUpdated: 2022-08-26T21:14:35+07:00
+! Version: 2022.08.26.2115
+! TimeUpdated: 2022-08-26T21:15:32+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -40,6 +40,7 @@ vibestream5.blogspot.com^
 ! Casino - Start
 ||16881sagame.com^empty
 ||1688sagame.com^empty
+||188betthailand.net^empty
 ||512xiaojin.com^empty
 ||888casinobet.com^empty
 ||8xbet.io^empty

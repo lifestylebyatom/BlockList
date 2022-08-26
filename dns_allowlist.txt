@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.26.1652
-! TimeUpdated: 2022-08-26T16:52:57+07:00
+! Version: 2022.08.26.1656
+! TimeUpdated: 2022-08-26T16:56:43+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -90,7 +90,8 @@
 @@||kakaowebtoon.com^$important
 @@||naver.com^$important
 @@||webtoons.com^$important
-@@www.niceoppai.net
+@@www.niceoppai.net^$important
+@@image.wasabith.com^$important
 ! Webtoon - End
 
 ! ntpService - Start
@@ -124,6 +125,7 @@
 ! AdultService - Start
 @@/wchat[0-9]+.myfreecams.com/
 @@||chaturbate.com^$important
+@@||nekopost.net
 @@||pornhub.org^$important
 @@||stripchat.com^$important
 @@||strpst.com^$important
@@ -132,6 +134,5 @@
 @@mobile.mfcimg.com^$important
 @@snap.mfcimg.com^$important
 @@www.myfreecams.com^$important
-@@||nekopost.net
 ! AdultService - End
 

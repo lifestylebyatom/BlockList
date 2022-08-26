@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.26.1704
-! TimeUpdated: 2022-08-26T17:04:14+07:00
+! Version: 2022.08.26.1706
+! TimeUpdated: 2022-08-26T17:06:50+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -13,7 +13,6 @@
 @@www.google.com
 @@www.google.co.th
 @@wpad.home.local
-
 ! AllowList - End
 
 ! Work - Start
@@ -131,6 +130,7 @@
 @@||pornhub.org^$important
 @@||stripchat.com^$important
 @@||strpst.com^$important
+@@||.stripst.com^$important
 @@img.mfcimg.com^$important
 @@m.myfreecams.com^$important
 @@mobile.mfcimg.com^$important

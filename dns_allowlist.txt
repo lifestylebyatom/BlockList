@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.26.1636
-! TimeUpdated: 2022-08-26T16:36:35+07:00
+! Version: 2022.08.26.1639
+! TimeUpdated: 2022-08-26T16:39:25+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -117,13 +117,15 @@
 ! UserAdmin - End
 
 ! AdultService - Start
+@@/wchat[0-9]+.myfreecams.com/
 @@||chaturbate.com^$important
 @@||pornhub.org^$important
 @@||stripchat.com^$important
 @@||strpst.com^$important
-@@www.myfreecams.com^$important
 @@img.mfcimg.com^$important
-@@/wchat[0-9]+.myfreecams.com/
 @@mobile.mfcimg.com^$important
+@@www.myfreecams.com^$important
+@@snap.mfcimg.com^$important
+@@m.myfreecams.com^$important
 ! AdultService - End
 

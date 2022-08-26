@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2022.08.26.1646
-! TimeUpdated: 2022-08-26T16:46:48+07:00
+! Version: 2022.08.26.1647
+! TimeUpdated: 2022-08-26T16:47:41+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -39,6 +39,7 @@ vibestream5.blogspot.com^
 ||8xbet.io^empty
 ||apb17.com^empty
 ||ask-toonkor.com^empty
+||baccarat99th.com^empty
 ||berlin777.com^empty
 ||boda8th.com^empty
 ||brazil999.net^empty
@@ -71,6 +72,7 @@ vibestream5.blogspot.com^
 ||sexygame666.com^empty
 ||sexygame666.net^empty
 ||slot1234.com^empty
+||slotfevers168.com^empty
 ||slotheng.com^empty
 ||sm-kr.com^empty
 ||spin559.com^empty

@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.26.1646
-! TimeUpdated: 2022-08-26T16:46:28+07:00
+! Version: 2022.08.26.1652
+! TimeUpdated: 2022-08-26T16:52:57+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -63,9 +63,9 @@
 @@graph-video.facebook.com^$important
 @@graph-video.instagram.com^$important
 @@i.instagram.com
-@@www.facebook.com
 @@m.facebook.com
 @@web.facebook.com
+@@www.facebook.com
 ! FacebookService - End
 
 ! SamsungService - Start
@@ -132,5 +132,6 @@
 @@mobile.mfcimg.com^$important
 @@snap.mfcimg.com^$important
 @@www.myfreecams.com^$important
+@@||nekopost.net
 ! AdultService - End
 

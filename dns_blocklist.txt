@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2022.08.26.2109
-! TimeUpdated: 2022-08-26T21:09:24+07:00
+! Version: 2022.08.26.2110
+! TimeUpdated: 2022-08-26T21:10:46+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -88,6 +88,7 @@ vibestream5.blogspot.com^
 ||ss350.game^empty
 ||ssgame350.bet^empty
 ||ssgame666.com^empty
+||ufa191.co^empty
 ||ufa1919.info^empty
 ||ufa222.info^empty
 ||ufa345.com^empty
@@ -98,11 +99,13 @@ vibestream5.blogspot.com^
 ||ufa800.com^empty
 ||ufa800.net^empty
 ||ufaback444.com^empty
+||ufabackhome.com^empty
 ||ufabet747.net^empty
 ||ufac4.net^empty
 ||ufafire.com^empty
 ||ufakicks.net^empty
 ||ufazeed.co^empty
+||ufazeed.com^empty
 ||usa567.cc^empty
 ||vip168sa1.com^empty
 ||wb-tt.com^empty

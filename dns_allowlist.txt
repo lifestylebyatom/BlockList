@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.29.0929
-! TimeUpdated: 2022-08-29T09:29:21+07:00
+! Version: 2022.08.29.0947
+! TimeUpdated: 2022-08-29T09:47:16+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -13,7 +13,7 @@
 @@www.google.com
 @@www.google.co.th
 @@wpad.home.local
-@@||tuyaus.com^$important
+
 ! AllowList - End
 
 ! Work - Start
@@ -26,6 +26,11 @@
 @@||lhbank.co.th^$important
 @@||lhb.net^$important
 ! Work - End
+
+! FinanceService - Start
+@@||stockradars.co
+@@||krungsrisecurities.com
+! FinanceService - End
 
 ! AppService - Start
 @@||snapdrop.net^$important
@@ -86,6 +91,11 @@
 @@||biliintl.com
 @@||play-rbcdn.ais.co.th^$important
 @@||viu.com
+@@||api-global.netflix.com
+@@||viu.com
+@@/bilibili.*/
+@@||biliintl.com
+@@/bilicdn[0-9]+.*/
 ! StreamingService - End
 
 ! Webtoon - Start
@@ -101,7 +111,18 @@
 @@wasabith.com^$important
 @@www.niceoppai.net^$important
 @@www.wasabith.com^$important
+@@||webtoons.com^$important
+@@||kakaowebtoon.com^$important
+@@||webtoon.com
+@@/ns[0-9]+.naver.com/
+@@||kakaopagecdn.com
+@@||kakaowebtoon.com
+@@||manga-seed.com
 ! Webtoon - End
+
+! IoTService - Start
+@@||tuyaus.com^$important
+! IoTService - End
 
 ! ntpService - Start
 @@||pool.ntp.org^$important

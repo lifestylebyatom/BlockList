@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.29.0947
-! TimeUpdated: 2022-08-29T09:47:16+07:00
+! Version: 2022.08.29.0956
+! TimeUpdated: 2022-08-29T09:56:29+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -13,7 +13,6 @@
 @@www.google.com
 @@www.google.co.th
 @@wpad.home.local
-
 ! AllowList - End
 
 ! Work - Start
@@ -28,8 +27,13 @@
 ! Work - End
 
 ! FinanceService - Start
-@@||stockradars.co
 @@||krungsrisecurities.com
+@@||stockradars.co
+@@||scbeasy.com
+@@||kasikornbank.com
+@@||truemoney.com
+@@||ascendmoney.io
+@@/tmn-mobile-gateway[0-9]+.public-a-cloud1p.ascendmoney.io/
 ! FinanceService - End
 
 ! AppService - Start
@@ -91,19 +95,19 @@
 @@||biliintl.com
 @@||play-rbcdn.ais.co.th^$important
 @@||viu.com
-@@||api-global.netflix.com
-@@||viu.com
-@@/bilibili.*/
-@@||biliintl.com
-@@/bilicdn[0-9]+.*/
 ! StreamingService - End
 
 ! Webtoon - Start
 @@/image[0-9]+.niceoppai.net^$important/
+@@/ns[0-9]+.naver.com/
+@@||kakaopagecdn.com
+@@||kakaowebtoon.com
 @@||kakaowebtoon.com^$important
+@@||manga-seed.com
 @@||mebmarket.com^$important
 @@||naver.com^$important
 @@||tunwalai.com^$important
+@@||webtoon.com
 @@||webtoons.com^$important
 @@api.readawrite.com^$important
 @@cdn.readawrite.com
@@ -111,13 +115,6 @@
 @@wasabith.com^$important
 @@www.niceoppai.net^$important
 @@www.wasabith.com^$important
-@@||webtoons.com^$important
-@@||kakaowebtoon.com^$important
-@@||webtoon.com
-@@/ns[0-9]+.naver.com/
-@@||kakaopagecdn.com
-@@||kakaowebtoon.com
-@@||manga-seed.com
 ! Webtoon - End
 
 ! IoTService - Start

@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2022.08.29.0956
-! TimeUpdated: 2022-08-29T09:56:29+07:00
+! Version: 2022.09.02.0933
+! TimeUpdated: 2022-09-02T09:33:15+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -24,16 +24,17 @@
 @@58.137.95.4
 @@||lhbank.co.th^$important
 @@||lhb.net^$important
+@@||telerik.com^$important
 ! Work - End
 
 ! FinanceService - Start
-@@||krungsrisecurities.com
-@@||stockradars.co
-@@||scbeasy.com
-@@||kasikornbank.com
-@@||truemoney.com
-@@||ascendmoney.io
 @@/tmn-mobile-gateway[0-9]+.public-a-cloud1p.ascendmoney.io/
+@@||ascendmoney.io
+@@||kasikornbank.com
+@@||krungsrisecurities.com
+@@||scbeasy.com
+@@||stockradars.co
+@@||truemoney.com
 ! FinanceService - End
 
 ! AppService - Start

@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2022.08.26.2220
-! TimeUpdated: 2022-08-26T22:20:46+07:00
+! Version: 2022.09.14.2004
+! TimeUpdated: 2022-09-14T20:04:52+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -42,6 +42,8 @@ baobua.com###fix_scale > div.inner > div.grid > div.grid__item.large--three-twel
 baobua.com###fixed-social-network
 baobua.com###hctab1 > div.ad-ex:nth-child(2)
 baobua.com##div:nth-child(7) > div.fIfaLvM8:last-child
+dongkemon.com##footer:nth-child(6) > div.copyright:last-child
+dongkemon.com##footer:nth-child(6) > div.copyright:nth-child(3)
 dotnetfiddle.net###sponsor-3
 doujinpost.com###light
 doujinpost.com###light2
@@ -49,12 +51,18 @@ doujinpost.com###post-10844 > center:nth-child(4) > div.col-md-12.text-center > 
 doujinpost.com##div.footer-row:nth-child(4)
 doujinpost.com##footer.text-muted:nth-child(3) > div.container.text-center:last-child
 doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.container.text-center.padding-top-15 > div.row > div.col-md-12:first-child
+facebook.com###jsc_c_c0 > div.l9j0dhe7:first-child > div > div.l9j0dhe7.stjgntxs.ni8dbmo4.cbu4d94t.j83agx80 > div.l9j0dhe7.stjgntxs.ni8dbmo4 > div:nth-child(2)
+facebook.com###mount_0_0_XC > div:nth-child(2) > div:first-child > div.rq0escxv.l9j0dhe7.du4w35lb > div:nth-child(7) > div > div.__fb-dark-mode.l9j0dhe7.tkr6xdv7 > div.rq0escxv.l9j0dhe7.du4w35lb:first-child > div.j83agx80.cbu4d94t.h3gjbzrl.l9j0dhe7 > div.j83agx80.cbu4d94t.h3gjbzrl.l9j0dhe7.du4w35lb.qsy8amke:nth-child(3) > div.j83agx80.cbu4d94t.dp1hu0rb:last-child > div.j83agx80.cbu4d94t.buofh1pr.dp1hu0rb.hpfvmrgz > div.j83agx80.dp1hu0rb > div.j83agx80.cbu4d94t.buofh1pr.nnvw5wor.gs1a9yip.taijpn5t:first-child > div.j83agx80.cbu4d94t.d2edcug0 > div.j83agx80.cbu4d94t.nznu9b0o > div.datstx6m.ni8dbmo4.stjgntxs > div.nznu9b0o.stjgntxs > div.k4urcfbm.l9j0dhe7.stjgntxs.ni8dbmo4.datstx6m.tqsryivl > div.k4urcfbm.l9j0dhe7.datstx6m.a8c37x1j.du4w35lb > div:nth-child(2) > div.k4urcfbm.kr520xx4.pmk7jnqg.datstx6m > div.gqgwhnc0.g2fypklz.pmk7jnqg.mio9le5o:nth-child(9) > div > a.oajrlxb2.g5ia77u1.qu0x051f.esr5mh6w.e9989ue4.r7d6kgcz.rq0escxv.nhd2j8a9.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.i1ao9s8h.esuyzwwr.f1sip0of.n00je7tq.arfg74bv.qs9ysxi8.k77z8yql.l9j0dhe7.abiwlrkh.p8dawk7l.lzcic4wl.a8c37x1j
 hdhd154.net###thema_wrapper > div.at-body:last-child > div.at-container > div.at-content:first-child > div.col-md-12.mobile-banner:nth-child(7) > section.row.clearfix.top_banner
 hdhd154.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.at-content > div.col-md-12.mobile-banner:nth-child(7) > section.row.clearfix.top_banner > table > tbody > tr:last-child > td > div.col-md-12.col-sm-12.col-xs-12.text-center.pc-banners
 https://manga689.com/wp-content/uploads/2022/04/hentai168-GIF-3.gif$domain=manga689.com
+kingsmanga.net###text-20 > div.textwidget > div.text-center
+kingsmanga.net###wrapper > div.new-kingsmanga-section:nth-child(2) > div.col-md-12.text-center.padding-top-15.new-widget-width
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
 makimaaaaa.com###wbnn
 makimaaaaa.com###wpdevar_comment_1
+manga00.com###ads_fix_footer > div > a
+manga00.com###ads_fox_bottom > div:nth-child(4) > div:last-child
 manga168.com###ads_fox_bottom
 manga168.com###content > div.wrapper > div.dessert-frame
 manga689.com > div.entry-content.entry-content-single.maincontent:nth-child(4) > div.kln:nth-child(3)
@@ -73,6 +81,7 @@ manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln
 manhwathailand.com##header.header:nth-child(3) > div.blox.mlb.kln:nth-child(8)
 manhwathailand.com##main:nth-child(5) > div.content:last-child > a:first-child
 manhwathailand.com##main:nth-child(5) > div.content:last-child > div.series:last-child > div.container:last-child > div.series-flex:last-child > div.series-flexright:last-child > div.ads:nth-child(3)
+manhwathailand.com##main:nth-child(5) > div.content:last-child > div.series:last-child > div.container:last-child > div.series-flex:last-child > div.series-flexright:last-child > div.ads:nth-child(6)
 manhwathailand.com##main:nth-child(5) > div.content:nth-child(2) > div.ads:nth-child(2)
 manhwathailand.com##main:nth-child(5) > div.content:nth-child(2) > div.container:last-child > div.ads:nth-child(2)
 mawtoload.com###content > div.code-block.code-block-4:first-child
@@ -87,14 +96,22 @@ niceoppai.net###sct_content > div.fb-comment-box
 niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(4) > div.fb-comment-box:nth-child(6)
 niceoppai.net###text-33 > div.textwidget > center
 niceoppai.net###text-33
+niceoppai.net###text-90 > div.con:last-child > div.textwidget
 niceoppai.net###text-90
 orztoons.com###ads728x90top
 secufiles.com###at-custom-sidebar > div.at-custom-sidebar-btns:last-child
 series-dd.co###ads728x90top
+siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > center:last-child > a:last-child > img
+siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > center:last-child > a:nth-child(2) > img
+siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > center:last-child > table:nth-child(5) > tbody > tr:first-child > td:last-child > a:first-child > img
+siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > center:last-child > table:nth-child(5) > tbody > tr:nth-child(2)
+siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(3) > tbody
+siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(5) > tbody
 th.manytoon.me##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 tt-square.com###notification
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4)
+tt-torrent.com###notification
 typingstudy.com###at4-share
 xn--thepratebay-fcb.se###at4-share
 ! Manual Gen - End
@@ -110,10 +127,13 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="ask-toonkor"]
 *##[href*="baccarat99th"]
 *##[href*="berlin777"]
+*##[href*="boda8"]
 *##[href*="boda8th"]
 *##[href*="brazil999"]
 *##[href*="btq-rrr"]
 *##[href*="fair-1285"]
+*##[href*="funny168"]
+*##[href*="gettybet"]
 *##[href*="hotgraph88"]
 *##[href*="hydra8881"]
 *##[href*="juad888"]
@@ -123,6 +143,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="lotto432"]
 *##[href*="lotto432s"]
 *##[href*="lotto77s"]
+*##[href*="madikub"]
 *##[href*="mahagame88"]
 *##[href*="momo248"]
 *##[href*="myligaz888"]
@@ -132,6 +153,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="onep-1212"]
 *##[href*="panama888"]
 *##[href*="pg133"]
+*##[href*="pidgame168"]
 *##[href*="prettygaming168"]
 *##[href*="qq101"]
 *##[href*="qq288"]
@@ -144,6 +166,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="slot1234"]
 *##[href*="slotfevers168"]
 *##[href*="slotheng"]
+*##[href*="slotmybet"]
 *##[href*="sm-kr"]
 *##[href*="spin559"]
 *##[href*="ss350"]
@@ -164,6 +187,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="ufac4"]
 *##[href*="ufafire"]
 *##[href*="ufakicks"]
+*##[href*="ufalogin"]
 *##[href*="ufax2bet"]
 *##[href*="ufazeed"]
 *##[href*="usa567"]
@@ -182,10 +206,13 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@ask-toonkor"]
 *##[href*="line.me/ti/p/~@baccarat99th"]
 *##[href*="line.me/ti/p/~@berlin777"]
+*##[href*="line.me/ti/p/~@boda8"]
 *##[href*="line.me/ti/p/~@boda8th"]
 *##[href*="line.me/ti/p/~@brazil999"]
 *##[href*="line.me/ti/p/~@btq-rrr"]
 *##[href*="line.me/ti/p/~@fair-1285"]
+*##[href*="line.me/ti/p/~@funny168"]
+*##[href*="line.me/ti/p/~@gettybet"]
 *##[href*="line.me/ti/p/~@hotgraph88"]
 *##[href*="line.me/ti/p/~@hydra8881"]
 *##[href*="line.me/ti/p/~@juad888"]
@@ -195,6 +222,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@lotto432"]
 *##[href*="line.me/ti/p/~@lotto432s"]
 *##[href*="line.me/ti/p/~@lotto77s"]
+*##[href*="line.me/ti/p/~@madikub"]
 *##[href*="line.me/ti/p/~@mahagame88"]
 *##[href*="line.me/ti/p/~@momo248"]
 *##[href*="line.me/ti/p/~@myligaz888"]
@@ -204,6 +232,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@onep-1212"]
 *##[href*="line.me/ti/p/~@panama888"]
 *##[href*="line.me/ti/p/~@pg133"]
+*##[href*="line.me/ti/p/~@pidgame168"]
 *##[href*="line.me/ti/p/~@prettygaming168"]
 *##[href*="line.me/ti/p/~@qq101"]
 *##[href*="line.me/ti/p/~@qq288"]
@@ -217,6 +246,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@slot1234"]
 *##[href*="line.me/ti/p/~@slotfevers168"]
 *##[href*="line.me/ti/p/~@slotheng"]
+*##[href*="line.me/ti/p/~@slotmybet"]
 *##[href*="line.me/ti/p/~@sm-kr"]
 *##[href*="line.me/ti/p/~@spin559"]
 *##[href*="line.me/ti/p/~@ss350"]
@@ -239,6 +269,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@ufac4"]
 *##[href*="line.me/ti/p/~@ufafire"]
 *##[href*="line.me/ti/p/~@ufakicks"]
+*##[href*="line.me/ti/p/~@ufalogin"]
 *##[href*="line.me/ti/p/~@ufax2bet"]
 *##[href*="line.me/ti/p/~@ufazeed"]
 *##[href*="line.me/ti/p/~@ufazeed"]

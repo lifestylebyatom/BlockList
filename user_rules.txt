@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2022.09.14.2004
-! TimeUpdated: 2022-09-14T20:04:52+07:00
+! Version: 2022.09.14.2005
+! TimeUpdated: 2022-09-14T20:05:43+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License

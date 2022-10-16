@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2022.10.17.0051
-! TimeUpdated: 2022-10-17T00:51:46+07:00
+! Version: 2022.10.17.0105
+! TimeUpdated: 2022-10-17T01:05:56+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -109,6 +109,7 @@ siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > ta
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(5) > tbody
 th.manytoon.me##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 thaimanga.net##div.ads
+thaimanga.net##div.ads:nth-child(6)
 tt-square.com###notification
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4)
@@ -144,6 +145,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="lotto432"]
 *##[href*="lotto432s"]
 *##[href*="lotto77s"]
+*##[href*="luckygame78"]
 *##[href*="madikub"]
 *##[href*="mahagame88"]
 *##[href*="momo248"]
@@ -172,6 +174,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="spin559"]
 *##[href*="ss350"]
 *##[href*="ssgame350"]
+*##[href*="ssgame561"]
 *##[href*="ssgame666"]
 *##[href*="ufa191"]
 *##[href*="ufa1919"]
@@ -189,6 +192,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="ufafire"]
 *##[href*="ufakicks"]
 *##[href*="ufalogin"]
+*##[href*="ufanance"]
 *##[href*="ufax2bet"]
 *##[href*="ufazeed"]
 *##[href*="usa567"]
@@ -223,6 +227,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@lotto432"]
 *##[href*="line.me/ti/p/~@lotto432s"]
 *##[href*="line.me/ti/p/~@lotto77s"]
+*##[href*="line.me/ti/p/~@luckygame78"]
 *##[href*="line.me/ti/p/~@madikub"]
 *##[href*="line.me/ti/p/~@mahagame88"]
 *##[href*="line.me/ti/p/~@momo248"]
@@ -252,6 +257,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@spin559"]
 *##[href*="line.me/ti/p/~@ss350"]
 *##[href*="line.me/ti/p/~@ssgame350"]
+*##[href*="line.me/ti/p/~@ssgame561"]
 *##[href*="line.me/ti/p/~@ssgame666"]
 *##[href*="line.me/ti/p/~@ufa191"]
 *##[href*="line.me/ti/p/~@ufa1919"]
@@ -271,6 +277,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@ufafire"]
 *##[href*="line.me/ti/p/~@ufakicks"]
 *##[href*="line.me/ti/p/~@ufalogin"]
+*##[href*="line.me/ti/p/~@ufanance"]
 *##[href*="line.me/ti/p/~@ufax2bet"]
 *##[href*="line.me/ti/p/~@ufazeed"]
 *##[href*="line.me/ti/p/~@ufazeed"]

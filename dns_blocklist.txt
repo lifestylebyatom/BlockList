@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2022.11.21.1234
-! TimeUpdated: 2022-11-21T12:34:16+07:00
+! Version: 2022.11.23.1813
+! TimeUpdated: 2022-11-23T18:13:09+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -11,6 +11,7 @@
 ||2rx.cc^
 ||bitly.lc^
 ||eu.org^
+||krjxhvyyzp.com^
 ||kve.so^
 ||reurl.cc^
 ||shifen.com^
@@ -26,7 +27,8 @@ dig0es.blogspot.com^
 pg133.com^
 q111.live^
 vibestream5.blogspot.com^
-||krjxhvyyzp.com^
+||ipv.buzz^
+||lik.bz^
 ! BlockList - End
 
 ! Ads - Start
@@ -85,6 +87,7 @@ vibestream5.blogspot.com^
 ||onep-1212.com^
 ||panama888.co^
 ||pg133.com^
+||pgxpay.com^
 ||pidgame168.com^
 ||prettygaming168.com^
 ||qq101.com^

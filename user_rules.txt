@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2023.01.08.1944
-! TimeUpdated: 2023-01-08T19:44:32+07:00
+! Version: 2023.01.08.1956
+! TimeUpdated: 2023-01-08T19:56:11+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -47,12 +47,7 @@ doujinpost.com###post-10844 > center:nth-child(4) > div.col-md-12.text-center > 
 doujinpost.com##div.footer-row:nth-child(4)
 doujinpost.com##footer.text-muted:nth-child(3) > div.container.text-center:last-child
 doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.container.text-center.padding-top-15 > div.row > div.col-md-12:first-child
-facebook.com###jsc_c_c0 > div.l9j0dhe7:first-child > div > div.l9j0dhe7.stjgntxs.ni8dbmo4.cbu4d94t.j83agx80 > div.l9j0dhe7.stjgntxs.ni8dbmo4 > div:nth-child(2)
-facebook.com###mount_0_0_XC > div:nth-child(2) > div:first-child > div.rq0escxv.l9j0dhe7.du4w35lb > div:nth-child(7) > div > div.__fb-dark-mode.l9j0dhe7.tkr6xdv7 > div.rq0escxv.l9j0dhe7.du4w35lb:first-child > div.j83agx80.cbu4d94t.h3gjbzrl.l9j0dhe7 > div.j83agx80.cbu4d94t.h3gjbzrl.l9j0dhe7.du4w35lb.qsy8amke:nth-child(3) > div.j83agx80.cbu4d94t.dp1hu0rb:last-child > div.j83agx80.cbu4d94t.buofh1pr.dp1hu0rb.hpfvmrgz > div.j83agx80.dp1hu0rb > div.j83agx80.cbu4d94t.buofh1pr.nnvw5wor.gs1a9yip.taijpn5t:first-child > div.j83agx80.cbu4d94t.d2edcug0 > div.j83agx80.cbu4d94t.nznu9b0o > div.datstx6m.ni8dbmo4.stjgntxs > div.nznu9b0o.stjgntxs > div.k4urcfbm.l9j0dhe7.stjgntxs.ni8dbmo4.datstx6m.tqsryivl > div.k4urcfbm.l9j0dhe7.datstx6m.a8c37x1j.du4w35lb > div:nth-child(2) > div.k4urcfbm.kr520xx4.pmk7jnqg.datstx6m > div.gqgwhnc0.g2fypklz.pmk7jnqg.mio9le5o:nth-child(9) > div > a.oajrlxb2.g5ia77u1.qu0x051f.esr5mh6w.e9989ue4.r7d6kgcz.rq0escxv.nhd2j8a9.p7hjln8o.kvgmc6g5.cxmmr5t8.oygrvhab.hcukyx3x.jb3vyjys.rz4wbd8a.qt6c0cv9.a8nywdso.i1ao9s8h.esuyzwwr.f1sip0of.n00je7tq.arfg74bv.qs9ysxi8.k77z8yql.l9j0dhe7.abiwlrkh.p8dawk7l.lzcic4wl.a8c37x1j
 godhman.net##div.header-ads-section
-hdhd154.net###thema_wrapper > div.at-body:last-child > div.at-container > div.at-content:first-child > div.col-md-12.mobile-banner:nth-child(7) > section.row.clearfix.top_banner
-hdhd154.net###thema_wrapper > div.at-body:nth-child(5) > div.at-container > div.at-content > div.col-md-12.mobile-banner:nth-child(7) > section.row.clearfix.top_banner > table > tbody > tr:last-child > td > div.col-md-12.col-sm-12.col-xs-12.text-center.pc-banners
-https://manga689.com/wp-content/uploads/2022/04/hentai168-GIF-3.gif$domain=manga689.com
 kingsmanga.net###text-20 > div.textwidget > div.text-center
 kingsmanga.net###wrapper > div.new-kingsmanga-section:nth-child(2) > div.col-md-12.text-center.padding-top-15.new-widget-width
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
@@ -94,10 +89,13 @@ miku-doujin.com##div.container:nth-child(5) > div.row > div.col-12.col-md-9:nth-
 miku-doujin.com##div.container:nth-child(6) > div.row > div.col-12.col-md-9:nth-child(2) > div.card:first-child > div.card-body:last-child > div.text-center.mb-3:first-child
 niceoppai.net###fblbx
 niceoppai.net###sct_content > div.fb-comment-box
-niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(4) > div.fb-comment-box:nth-child(6)
+niceoppai.net###sct_content > div.wpm_pag.mng_rdr > center > a > img
+niceoppai.net###sct_content > div.wpm_pag.mng_rdr > div.fb-comment-box
 niceoppai.net###sct_footer_banner > div.banner
 niceoppai.net###sct_footer_banner
+niceoppai.net###sct_top_banner
 niceoppai.net###sct_top_banner > div.textwidget > center
+niceoppai.net###text-\d > div.textwidget > center
 orztoons.com###ads728x90top
 secufiles.com###at-custom-sidebar > div.at-custom-sidebar-btns:last-child
 series-dd.co###ads728x90top

@@ -1,14 +1,13 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2023.01.08.1943
-! TimeUpdated: 2023-01-08T19:43:50+07:00
+! Version: 2023.01.08.1944
+! TimeUpdated: 2023-01-08T19:44:32+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
-
 *##[img*="hentai168-GIF-3.gif"]
 108read.com###comments
 108read.com###sidebar > div.section > div.fb-page.fb_iframe_widget
@@ -25,6 +24,8 @@ alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez
 alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez-col-post.ez-col-post-left:first-child > div.post-thumnail.ez-p-thum:first-child >div.ez-entry-share.eez-mobile
 alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez-col-post:first-child > div.ez-entry-share:last-child
 alpha-hen.com###sticky-dessert
+animekimi.com###animekimiads\d
+animekimi.com##.animekimi-banner
 animesubthaiz.com###a.fb
 animesubthaiz.com###banner
 app.raindrop.io###react > div.page-18wz.page-u56r > div.splitview-2t_-.s-40HK > aside.svSidebar:first-child > a.upgrade-1DKr:nth-child(3)

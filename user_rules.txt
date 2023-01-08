@@ -1,13 +1,14 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2023.01.08.1816
-! TimeUpdated: 2023-01-08T18:16:25+07:00
+! Version: 2023.01.08.1820
+! TimeUpdated: 2023-01-08T18:20:46+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
+
 *##[img*="hentai168-GIF-3.gif"]
 108read.com###comments
 108read.com##div.ads
@@ -98,8 +99,15 @@ miku-doujin.com##div.container:nth-child(5) > div.row > div.col-12.col-md-9:nth-
 miku-doujin.com##div.container:nth-child(6) > div.row > div.col-12.col-md-9:nth-child(2) > div.card:first-child > div.card-body:last-child > div.text-center.mb-3:first-child
 niceoppai.net###fblbx
 niceoppai.net###sct_content > div.fb-comment-box
+niceoppai.net###sct_content > div.wpm_pag.mng_rdr
+niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(4) > div.fb-comment-box:nth-child(6)
+niceoppai.net###sct_footer_banner > div.banner
 niceoppai.net###sct_footer_banner
 niceoppai.net###sct_top_banner > div.textwidget > center
+niceoppai.net###text-33 > div.textwidget > center
+niceoppai.net###text-33
+niceoppai.net###text-90 > div.con:last-child > div.textwidget
+niceoppai.net###text-90
 orztoons.com###ads728x90top
 secufiles.com###at-custom-sidebar > div.at-custom-sidebar-btns:last-child
 series-dd.co###ads728x90top

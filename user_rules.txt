@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
 ! Version: 2023.01.08.1918
-! TimeUpdated: 2023-01-08T19:18:16+07:00
+! TimeUpdated: 2023-01-08T19:18:35+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -99,6 +99,7 @@ miku-doujin.com##div.container:nth-child(5) > div.row > div.col-12.col-md-9:nth-
 miku-doujin.com##div.container:nth-child(6) > div.row > div.col-12.col-md-9:nth-child(2) > div.card:first-child > div.card-body:last-child > div.text-center.mb-3:first-child
 niceoppai.net###fblbx
 niceoppai.net###sct_content > div.fb-comment-box
+niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(4) > div.fb-comment-box:nth-child(6)
 niceoppai.net###sct_footer_banner > div.banner
 niceoppai.net###sct_footer_banner
 niceoppai.net###sct_top_banner > div.textwidget > center
@@ -113,7 +114,6 @@ siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > ta
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(5) > tbody
 th.manytoon.me##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 thaimanga.net##div.ads
-thaimanga.net##div.ads:nth-child(6)
 tt-square.com###notification
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4)

@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2022.12.16.1041
-! TimeUpdated: 2022-12-16T10:41:43+07:00
+! Version: 2023.01.08.1946
+! TimeUpdated: 2023-01-08T19:46:52+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -9,9 +9,11 @@
 
 ! BlockList - Start
 ||2rx.cc^
+||applesupporte.com^
 ||bitly.lc^
 ||citly.me^
 ||eu.org^
+||icloud-thailand.com^
 ||ipv.buzz^
 ||krjxhvyyzp.com^
 ||kve.so^
@@ -29,10 +31,7 @@ dev.kz^
 dig0es.blogspot.com^
 pg133.com^
 q111.live^
-
 vibestream5.blogspot.com^
-||applesupporte.com^
-||icloud-thailand.com^
 ! BlockList - End
 
 ! Ads - Start

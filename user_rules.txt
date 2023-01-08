@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2023.01.08.1839
-! TimeUpdated: 2023-01-08T18:39:43+07:00
+! Version: 2023.01.08.1856
+! TimeUpdated: 2023-01-08T18:56:25+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -10,6 +10,7 @@
 ! Manual Gen - Start
 *##[img*="hentai168-GIF-3.gif"]
 108read.com###comments
+108read.com###sidebar > div.section > div.fb-page.fb_iframe_widget
 108read.com##div.ads
 alpha-hen.com###colophon > div.row.ez-footer-row:first-child > div.col-sm-4:nth-child(2)
 alpha-hen.com###comment
@@ -118,6 +119,7 @@ siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > ta
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(5) > tbody
 th.manytoon.me##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 thaimanga.net##div.ads
+thaimanga.net##div.ads:nth-child(6)
 tt-square.com###notification
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4)

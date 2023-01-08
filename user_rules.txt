@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2023.01.08.1856
-! TimeUpdated: 2023-01-08T18:56:38+07:00
+! Version: 2023.01.08.1905
+! TimeUpdated: 2023-01-08T19:05:42+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -99,7 +99,6 @@ miku-doujin.com##div.container:nth-child(5) > div.row > div.col-12.col-md-9:nth-
 miku-doujin.com##div.container:nth-child(6) > div.row > div.col-12.col-md-9:nth-child(2) > div.card:first-child > div.card-body:last-child > div.text-center.mb-3:first-child
 niceoppai.net###fblbx
 niceoppai.net###sct_content > div.fb-comment-box
-niceoppai.net###sct_content > div.wpm_pag.mng_rdr
 niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(4) > div.fb-comment-box:nth-child(6)
 niceoppai.net###sct_footer_banner > div.banner
 niceoppai.net###sct_footer_banner

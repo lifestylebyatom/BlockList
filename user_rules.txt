@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2023.01.08.1234
-! TimeUpdated: 2023-01-08T12:34:10+07:00
+! Version: 2023.01.08.1236
+! TimeUpdated: 2023-01-08T12:36:55+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -115,7 +115,6 @@ siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > ta
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(5) > tbody
 th.manytoon.me##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 thaimanga.net##div.ads
-thaimanga.net##div.ads:nth-child(6)
 tt-square.com###notification
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4) > a > img
 tt-square.com##div.expanded.row:nth-child(2) > center:nth-child(4)

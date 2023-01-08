@@ -1,14 +1,13 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2023.01.08.1820
-! TimeUpdated: 2023-01-08T18:20:46+07:00
+! Version: 2023.01.08.1821
+! TimeUpdated: 2023-01-08T18:21:40+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
-
 *##[img*="hentai168-GIF-3.gif"]
 108read.com###comments
 108read.com##div.ads
@@ -99,7 +98,6 @@ miku-doujin.com##div.container:nth-child(5) > div.row > div.col-12.col-md-9:nth-
 miku-doujin.com##div.container:nth-child(6) > div.row > div.col-12.col-md-9:nth-child(2) > div.card:first-child > div.card-body:last-child > div.text-center.mb-3:first-child
 niceoppai.net###fblbx
 niceoppai.net###sct_content > div.fb-comment-box
-niceoppai.net###sct_content > div.wpm_pag.mng_rdr
 niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(4) > div.fb-comment-box:nth-child(6)
 niceoppai.net###sct_footer_banner > div.banner
 niceoppai.net###sct_footer_banner

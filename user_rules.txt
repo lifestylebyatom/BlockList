@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
 ! Version: 2023.01.08.1856
-! TimeUpdated: 2023-01-08T18:56:25+07:00
+! TimeUpdated: 2023-01-08T18:56:38+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -104,10 +104,6 @@ niceoppai.net###sct_content > div.wpm_pag.mng_rdr:nth-child(4) > div.fb-comment-
 niceoppai.net###sct_footer_banner > div.banner
 niceoppai.net###sct_footer_banner
 niceoppai.net###sct_top_banner > div.textwidget > center
-niceoppai.net###text-33 > div.textwidget > center
-niceoppai.net###text-33
-niceoppai.net###text-90 > div.con:last-child > div.textwidget
-niceoppai.net###text-90
 orztoons.com###ads728x90top
 secufiles.com###at-custom-sidebar > div.at-custom-sidebar-btns:last-child
 series-dd.co###ads728x90top

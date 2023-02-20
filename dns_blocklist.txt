@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2023.01.08.1946
-! TimeUpdated: 2023-01-08T19:46:52+07:00
+! Version: 2023.02.20.2322
+! TimeUpdated: 2023-02-20T23:22:33+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -49,6 +49,9 @@ vibestream5.blogspot.com^
 ||th924.live^
 ||trjmokorza.com^
 ||zlkd2.com^
+||bestmatchproduce.com^
+||mayhemreconcileneutral.com^
+||omxriphi.com^
 ! Ads - End
 
 ! Casino - Start

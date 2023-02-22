@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2023.02.22.2217
-! TimeUpdated: 2023-02-22T22:17:15+07:00
+! Version: 2023.02.22.2238
+! TimeUpdated: 2023-02-22T22:38:28+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -38,8 +38,9 @@ pg133.com^
 q111.live^
 vibestream5.blogspot.com^
 xnlyfanx.com^
-xxxhub123.com^
 xxxbullet.com^
+xxxhub123.com^
+asianmatchmate.com^
 ! BlockList - End
 
 ! Ads - Start

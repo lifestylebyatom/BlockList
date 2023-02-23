@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2023.02.23.2059
-! TimeUpdated: 2023-02-23T20:59:53+07:00
+! Version: 2023.02.23.2101
+! TimeUpdated: 2023-02-23T21:01:03+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -31,6 +31,7 @@ asianmatchmate.com^
 dev.kz^
 dig0es.blogspot.com^
 fanscontent.co^
+file2share.co^
 installchecker.com^
 nsfw.xxx^
 of-model.com
@@ -45,7 +46,7 @@ xnlyfanx.com^
 xxxbullet.com^
 xxxhub123.com^
 zihahjoxsdze.com^
-file2share.co^
+fapello-leaks.com^
 ! BlockList - End
 
 ! Ads - Start

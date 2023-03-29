@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2023.03.27.1032
-! TimeUpdated: 2023-03-27T10:32:14+07:00
+! Version: 2023.03.29.1053
+! TimeUpdated: 2023-03-29T10:53:28+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -63,6 +63,7 @@ zihahjoxsdze.com^
 ||ecotrackings.com^
 ||forflygonom.com^
 ||godpvqnszo.com^
+||htyzpilijhki.com^
 ||hurirk.net^
 ||installsgate.com^
 ||mayhemreconcileneutral.com^
@@ -71,9 +72,8 @@ zihahjoxsdze.com^
 ||shufflesex.com^
 ||syndication.realsrv.com^
 ||th924.live^
+||okxarhcaboz.com^
 ||trjmokorza.com^
-
-||htyzpilijhki.com^
 ||zlkd2.com^
 ! Ads - End
 

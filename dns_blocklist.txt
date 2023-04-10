@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2023.03.29.1238
-! TimeUpdated: 2023-03-29T12:38:19+07:00
+! Version: 2023.04.10.1718
+! TimeUpdated: 2023-04-10T17:18:48+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -49,6 +49,7 @@ xnlyfanx.com^
 xxxbullet.com^
 xxxhub123.com^
 zihahjoxsdze.com^
+viralnews169.store^
 ! BlockList - End
 
 ! Ads - Start
@@ -77,7 +78,6 @@ zihahjoxsdze.com^
 ||th924.live^
 ||trjmokorza.com^
 ||zlkd2.com^
-||na.o18.click^
 ! Ads - End
 
 ! Casino - Start

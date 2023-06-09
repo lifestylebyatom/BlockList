@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2023.06.09.0959
-! TimeUpdated: 2023-06-09T09:59:43+07:00
+! Version: 2023.06.09.1000
+! TimeUpdated: 2023-06-09T10:00:54+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -25,6 +25,7 @@
 ||ufalogin.co^
 ||wee.so^
 ||wshifen.com^
+||w-vth.cc^
 ||za.con^
 applesupporte.com^
 asianmatchmate.com^
@@ -50,7 +51,6 @@ xnlyfanx.com^
 xxxbullet.com^
 xxxhub123.com^
 zihahjoxsdze.com^
-||w-vth.cc
 ! BlockList - End
 
 ! Ads - Start
@@ -99,6 +99,7 @@ zihahjoxsdze.com^
 ||btq-rrr.com^
 ||fair-1285.com^
 ||funny168.com^
+||gamepxj.com^
 ||gettybet.net^
 ||hotgraph88.co^
 ||hydra8881.com^

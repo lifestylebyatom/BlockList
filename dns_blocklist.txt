@@ -1,13 +1,14 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2023.06.23.0028
-! TimeUpdated: 2023-06-23T00:28:18+07:00
+! Version: 2023.07.14.0948
+! TimeUpdated: 2023-07-14T09:48:01+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! BlockList - Start
+||mycdn.me^
 ||2rx.cc^
 ||applesupporte.com^
 ||bitly.lc^
@@ -69,6 +70,7 @@ zihahjoxsdze.com^
 ||htyzpilijhki.com^
 ||hurirk.net^
 ||installsgate.com^
+||lurokzlapav.com^
 ||mayhemreconcileneutral.com^
 ||moneysavinglifehacks.pro^
 ||mrazens.com^
@@ -82,7 +84,6 @@ zihahjoxsdze.com^
 ||th924.live^
 ||trjmokorza.com^
 ||zlkd2.com^
-||lurokzlapav.com^
 ! Ads - End
 
 ! Casino - Start

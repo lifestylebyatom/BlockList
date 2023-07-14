@@ -1,14 +1,13 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2023.07.14.0950
-! TimeUpdated: 2023-07-14T09:50:33+07:00
+! Version: 2023.07.14.1003
+! TimeUpdated: 2023-07-14T10:03:16+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! BlockList - Start
-||userapi.com^
 ||2rx.cc^
 ||applesupporte.com^
 ||bitly.lc^
@@ -24,8 +23,10 @@
 ||reurl.cc^
 ||shifen.com^
 ||shorturl.ae
+||static.vk.com^
 ||sunid.eu.org^
 ||ufalogin.co^
+||userapi.com^
 ||wee.so^
 ||wshifen.com^
 ||w-vth.cc^
@@ -54,6 +55,7 @@ xnlyfanx.com^
 xxxbullet.com^
 xxxhub123.com^
 zihahjoxsdze.com^
+||amata-trade.com^
 ! BlockList - End
 
 ! Ads - Start

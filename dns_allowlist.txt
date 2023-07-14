@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2023.07.14.0954
-! TimeUpdated: 2023-07-14T09:54:30+07:00
+! Version: 2023.07.14.0955
+! TimeUpdated: 2023-07-14T09:55:00+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -17,7 +17,6 @@
 @@||btfs.io
 @@||ubuntu.com
 @@shop.line.me^$important
-@@api.authy.com^$important
 ! AllowList - End
 
 ! Work - Start
@@ -83,6 +82,8 @@
 @@m.facebook.com
 @@web.facebook.com
 @@www.facebook.com
+@@api.authy.com^$important
+@@www.instagram.com
 ! FacebookService - End
 
 ! SamsungService - Start

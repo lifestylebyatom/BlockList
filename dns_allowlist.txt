@@ -1,7 +1,7 @@
 ! Title: Atom DNS AllowList
 ! Description: Custom DNS AllowList By Atom
-! Version: 2023.07.14.0955
-! TimeUpdated: 2023-07-14T09:55:00+07:00
+! Version: 2023.07.14.1436
+! TimeUpdated: 2023-07-14T14:36:39+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -59,6 +59,8 @@
 @@||mql5.io
 @@||mql5.com
 @@||carriersignal.info
+@@toshibasmaciothubprod.azure-devices.net^$important
+
 ! AppService - End
 
 ! AppleService - Start
@@ -71,6 +73,7 @@
 
 ! FacebookService - Start
 @@/fbkk[0-9]+-[0-9]+.fna.fbcdn.*/
+@@api.authy.com^$important
 @@gateway.facebook.com
 @@gateway.instagram.com
 @@geo.instagram.com
@@ -82,7 +85,6 @@
 @@m.facebook.com
 @@web.facebook.com
 @@www.facebook.com
-@@api.authy.com^$important
 @@www.instagram.com
 ! FacebookService - End
 

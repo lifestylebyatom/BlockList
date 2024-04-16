@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1644
-! TimeUpdated: 2024-04-16T16:44:08+07:00
+! Version: 2024.04.16.2021
+! TimeUpdated: 2024-04-16T20:21:06+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -10,6 +10,19 @@
 ! Manual Gen - Start
 
 ###show_ads_c1
+##[href*="1688sagame"]
+##[href*="coinbet999"]
+##[href*="kingdom66"]
+##[href*="lotto432"]
+##[href*="lotto7777"]
+##[href*="panama8888"]
+##[href*="sexy1688"]
+##[href*="sexy6666"]
+##[href*="ss6666"]
+##[href*="ssgames350"]
+##[href*="ufa1919"]
+##[href*="ufac4"]
+##[href*="vip168saa"]
 *##[alt*="99tdedth"]
 *##[alt*="betvbee"]
 *##[alt*="cobra88"]
@@ -46,6 +59,7 @@
 *##[href*="ambslot44"]
 *##[href*="baccarat88"]
 *##[href*="betvbee"]
+*##[href*="boston7777"]
 *##[href*="cobra88"]
 *##[href*="coinbet999"]
 *##[href*="gans"]
@@ -55,11 +69,33 @@
 *##[href*="https://bit.ly/3sHnA99"]
 *##[href*="https://s.dxzvw.com/s/0xTlAq"]
 *##[href*="https://shorturl.asia/9NsPg"]
+*##[href*="https://t.ly/1688sagame"]
+*##[href*="https://t.ly/boston7777"]
+*##[href*="https://t.ly/coinbet999"]
+*##[href*="https://t.ly/hydra8888"]
+*##[href*="https://t.ly/kingdom66"]
+*##[href*="https://t.ly/lalikabet168"]
+*##[href*="https://t.ly/lalikabet88"]
+*##[href*="https://t.ly/lockdown1688"]
+*##[href*="https://t.ly/lotto432"]
+*##[href*="https://t.ly/lotto7777"]
+*##[href*="https://t.ly/panama8888"]
+*##[href*="https://t.ly/sa666"]
+*##[href*="https://t.ly/sexy1688"]
+*##[href*="https://t.ly/sexy6666"]
+*##[href*="https://t.ly/ss6666"]
+*##[href*="https://t.ly/ssgames350"]
+*##[href*="https://t.ly/ufa1919"]
+*##[href*="https://t.ly/ufac4"]
+*##[href*="https://t.ly/ufanance"]
+*##[href*="https://t.ly/vip168saa"]
 *##[href*="hydra8888"]
 *##[href*="jokers123th"]
 *##[href*="lalikabet168"]
+*##[href*="lalikabet88"]
 *##[href*="lcb168th"]
 *##[href*="like88vip"]
+*##[href*="lockdown1688"]
 *##[href*="mk8th"]
 *##[href*="panama8888"]
 *##[href*="pgjoker69b"]
@@ -68,6 +104,7 @@
 *##[href*="pgslot135"]
 *##[href*="pp9vip"]
 *##[href*="pvp888x"]
+*##[href*="sa666"]
 *##[href*="sagame350"]
 *##[href*="sagaming135"]
 *##[href*="sexy1688"]
@@ -307,6 +344,7 @@ manga-za.net###ads_03
 manga-za.net###ads_04
 manga-za.net###ads_05
 manga-za.net##div.ads-info
+manga-za.net##div[class^="mt-ad"]
 manhwathailand.com###wbnn > span.wbnn-close
 manhwathailand.com###wbnn
 manhwathailand.com##header.header > div.blox.mlb.kln:last-child > div.dessert-frame > center

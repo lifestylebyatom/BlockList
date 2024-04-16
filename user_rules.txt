@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.2102
-! TimeUpdated: 2024-04-16T21:02:45+07:00
+! Version: 2024.04.16.2112
+! TimeUpdated: 2024-04-16T21:12:33+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -383,12 +383,6 @@ siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > ce
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > center:last-child > table:nth-child(5) > tbody > tr:nth-child(2)
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(3) > tbody
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(5) > tbody
-src https://69.manhwathailand.com/god/sagame350.webp
-src="https://69.fcmanga.com/god/ssgames350.webp"
-src="https://69.manhwathailand.com/god/ufa350s.webp" alt="สมัครแทงบอลออนไลน์ UFABET รับโบนัส 50%"
-src="https://amz-cdn.manhwathailand.com/img/ca4525708279588c0904d0b6433369f1.gif" alt="สล็อตวอเลท"
-src="https://banner.xn--16-ftitt.com/inw.gif"
-src="https://manhwathailand.com/wp-content/uploads/2022/07/manga-bl.webp" alt="มังงะวาย"
 th.manytoon.me##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 thaimanga.net##div.ads
 tt-square.com###notification

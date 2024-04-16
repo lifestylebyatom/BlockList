@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1618
-! TimeUpdated: 2024-04-16T16:18:42+07:00
+! Version: 2024.04.16.1632
+! TimeUpdated: 2024-04-16T16:32:05+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -10,13 +10,19 @@
 ! Manual Gen - Start
 
 ###show_ads_c1
+*##[alt*="99tdedth"]
+*##[alt*="betvbee"]
+*##[alt*="cobra88"]
 *##[alt*="Coinbet999"]
 *##[alt*="lalikabet168"]
+*##[alt*="lcb168th"]
 *##[alt*="pgjoker69b"]
 *##[alt*="SAGAME350"]
 *##[alt*="ssgames350"]
+*##[alt*="ufa405"]
 *##[alt*="UFABET"]
 *##[alt*="upbetx1"]
+*##[alt*="vip168saa"]
 *##[alt*="แทงบอลออนไลน์"]
 *##[alt*="คาสิโน"]
 *##[alt*="บาคาร่าออนไลน์"]
@@ -34,14 +40,21 @@
 *##[alt="สล็อตฟรีสปิน"]
 *##[alt="สล็อตวอเลท"]
 *##[alt="สล็อตออนไลน์"]
+*##[hre*f="https://shorturl.asia/9NsPg"]
 *##[href*="1688sagame"]
 *##[href*="168newvegas"]
+*##[href*="99tdedth"]
+*##[href*="betvbee"]
+*##[href*="cobra88"]
 *##[href*="coinbet999"]
 *##[href*="gans"]
 *##[href*="hengjing168"]
+*##[href*="https://99tdedth.com/"]
+*##[href*="https://bit.ly/3sHnA99"]
 *##[href*="hydra8888"]
 *##[href*="jokers123th"]
 *##[href*="lalikabet168"]
+*##[href*="lcb168th"]
 *##[href*="like88vip"]
 *##[href*="mk8th"]
 *##[href*="panama8888"]
@@ -58,27 +71,39 @@
 *##[href*="slot6666"]
 *##[href*="tb45"]
 *##[href*="ufa1919"]
+*##[href*="ufa405"]
 *##[href*="ufafat"]
 *##[href*="ufanance"]
 *##[href*="ufasexygame2"]
 *##[href*="upbetx1"]
+*##[href*="vip168saa"]
+*##[href^="http://aff.ufa405.co"]
+*##[href^="http://ufa405.co"]
+*##[href^="http://www.ufa405.co"]
 *##[href^="https://168newvegas.co"]
 *##[href^="https://aff.gans.vip"]
 *##[href^="https://app.mk8th.com"]
 *##[href^="https://app.tb45.ink"]
+*##[href^="https://betvbee.com/"]
+*##[href^="https://bit.ly/3Ihaw1A"]
 *##[href^="https://bit.ly/3UMcMFv"]
 *##[href^="https://bit.ly/49imbsR"]
+*##[href^="https://cobra88.live/"]
+*##[href^="https://lcb168th.net/"]
 *##[href^="https://like88vip.com"]
 *##[href^="https://linkstatpro.com/"]
+*##[href^="https://lionth.co"]
 *##[href^="https://m.jokers123th.co"]
 *##[href^="https://namchok.usun.cash"]
 *##[href^="https://pgjoker69b.com"]
 *##[href^="https://pp9vip.com"]
 *##[href^="https://pvp888x.com"]
 *##[href^="https://sexygame992a.com"]
+*##[href^="https://t.ly/vip168saa"]
 *##[href^="https://upbetx1.com"]
 *##[href^="https://www.ufasexygame2.com"]
 *##[href^="ssgame350"]
+*##[href^="www.easy45.net/"]
 *##[href="https://datoptic.com/"]
 *##[href="https://linkstatpro.com/106"]
 *##[href="https://m.hengjing168.fun"]
@@ -167,6 +192,8 @@
 *##[src="https://69.manhwathailand.com/god/ufa350s.webp"]
 *##[src="https://amz-cdn.manhwathailand.com/img/ca4525708279588c0904d0b6433369f1.gif"]
 *##[src="https://banner.xn--16-ftitt.com/inw.gif"]
+*##[src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqONoSGfD9fxJ7o5yYSkp_wFn0297g8ElaD5z-atV_iR-1yYdXS1qfdNCDV0yW-cYpbD7rgTXFem-aY7o_tjjLP588rJt29Mjb24mOulERGUIWhR_1Sv0ih1_mqRjYiXPOr9m4qnlst0U7XhWH5cgrEVi6NGamx7LqTjryzM9bSo51rDD_2Jdp5vGihQ/s1600/126262626.gif"]
+*##[src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEig8V463NyzEdWzX8iHmz0oJDt7nleV6JLgXlOK9lsl_dG0rXTwwmw7ScYEeAww9klit2lEVzQhG-Nbkc32OO4chS1TDgODZJbP2vcK4I1aeM_OEfniFa1SbuklsGaLgA-Y4ZaHoI_HhbBvT0HCqg4fkbQiukx4EJ0H6QhzPNI5CxL1dh6dcuilSkzU9g/s16000/2595959562.gif"]
 *##[src="https://img.nw-autopage.com/j/Hydra888.gif"]
 *##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-panama888.gif"]
 *##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-sagame1688.gif"]
@@ -185,6 +212,7 @@
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/lucky135.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/pgslot135.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/04/pgk44.gif"]
+*##[src="https://www.niceoppai.net/wp-content/uploads/2022/05/92032932.webp"]
 </a>
 <a href="https://t.ly/hydra8888" rel="nofollow"><img src="https://img.nw-autopage.com/j/Hydra888.gif" rel="nofollow"></a>
 <a href="https://t.ly/slot6666" target="_blank" rel="nofollow">
@@ -317,7 +345,6 @@ siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > ce
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(3) > tbody
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(5) > tbody
 src https://69.manhwathailand.com/god/sagame350.webp
-src="https://69.fcmanga.com/god/ssgames350.webp"
 src="https://69.fcmanga.com/god/ssgames350.webp"
 src="https://69.manhwathailand.com/god/ufa350s.webp" alt="สมัครแทงบอลออนไลน์ UFABET รับโบนัส 50%"
 src="https://amz-cdn.manhwathailand.com/img/ca4525708279588c0904d0b6433369f1.gif" alt="สล็อตวอเลท"

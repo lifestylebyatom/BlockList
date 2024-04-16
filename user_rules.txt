@@ -1,14 +1,13 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.2113
-! TimeUpdated: 2024-04-16T21:13:35+07:00
+! Version: 2024.04.16.2114
+! TimeUpdated: 2024-04-16T21:14:03+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
-
 ###show_ads_c1
 *##[alt*="99tdedth"]
 *##[alt*="betvbee"]
@@ -277,9 +276,7 @@ alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez
 alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez-col-post.ez-col-post-left:first-child > div.post-thumnail.ez-p-thum:first-child >div.ez-entry-share.eez-mobile
 alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez-col-post:first-child > div.ez-entry-share:last-child
 alpha-hen.com###sticky-dessert
-alt="เว็บคาสิโนอันดับหนึ่ง รับเครดิตฟรีทดลองเล่น"
-alt="คาสิโนออนไลน์ครบวงจร SAGAME350 สล็อต บาคาร่า หวย แทงบอล"
-animekimi.com###animekimiads\d
+animekimi.com###animekimiads
 animekimi.com##.animekimi-banner
 animesubthaiz.com###a.fb
 animesubthaiz.com###banner

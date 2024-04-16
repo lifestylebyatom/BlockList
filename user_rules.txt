@@ -1,13 +1,14 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
 ! Version: 2024.04.16.2114
-! TimeUpdated: 2024-04-16T21:14:03+07:00
+! TimeUpdated: 2024-04-16T21:14:58+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
+
 ###show_ads_c1
 *##[alt*="99tdedth"]
 *##[alt*="betvbee"]
@@ -361,10 +362,6 @@ niceoppai.net###sct_footer_banner > div.banner
 niceoppai.net###sct_footer_banner
 niceoppai.net###sct_top_banner > div.textwidget > center
 niceoppai.net###sct_top_banner
-niceoppai.net###text-32
-niceoppai.net###text-33
-niceoppai.net###text-90
-niceoppai.net###text-97
 onlyfree.fan###show_ads_c1
 orztoons.com###ads728x90top
 secufiles.com###at-custom-sidebar > div.at-custom-sidebar-btns:last-child

@@ -1,26 +1,14 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
 ! Version: 2024.04.16.2054
-! TimeUpdated: 2024-04-16T20:54:25+07:00
+! TimeUpdated: 2024-04-16T20:54:43+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
-
 ###show_ads_c1
-##[href*="1688sagame"]
-##[href*="coinbet999"]
-##[href*="kingdom66"]
-##[href*="lotto432"]
-##[href*="lotto7777"]
-##[href*="panama8888"]
-##[href*="sexy1688"]
-##[href*="sexy6666"]
-##[href*="ss6666"]
-##[href*="ssgames350"]
-##[href*="ufa1919"]
 ##[href*="ufac4"]
 ##[href*="vip168saa"]
 *##[alt*="99tdedth"]
@@ -91,11 +79,14 @@
 *##[href*="https://t.ly/vip168saa"]
 *##[href*="hydra8888"]
 *##[href*="jokers123th"]
+*##[href*="kingdom66"]
 *##[href*="lalikabet168"]
 *##[href*="lalikabet88"]
 *##[href*="lcb168th"]
 *##[href*="like88vip"]
 *##[href*="lockdown1688"]
+*##[href*="lotto432"]
+*##[href*="lotto7777"]
 *##[href*="mk8th"]
 *##[href*="panama8888"]
 *##[href*="pgjoker69b"]
@@ -108,8 +99,11 @@
 *##[href*="sagame350"]
 *##[href*="sagaming135"]
 *##[href*="sexy1688"]
+*##[href*="sexy6666"]
 *##[href*="sexygame992a"]
 *##[href*="slot6666"]
+*##[href*="ss6666"]
+*##[href*="ssgames350"]
 *##[href*="tb45"]
 *##[href*="ufa1919"]
 *##[href*="ufa405"]

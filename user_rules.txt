@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1342
-! TimeUpdated: 2024-04-16T13:42:55+07:00
+! Version: 2024.04.16.1354
+! TimeUpdated: 2024-04-16T13:54:51+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -17,18 +17,28 @@
 *##[alt*="คาสิโน"]
 *##[alt="banner"]
 *##[alt="lsm65.vip"]
+*##[alt="lucky135"]
+*##[alt="pgk44"]
+*##[alt="pgslot135"]
 *##[alt="เว็บคาสิโนอันดับหนึ่ง รับเครดิตฟรีทดลองเล่น"]
 *##[alt="คาสิโนออนไลน์ครบวงจร SAGAME350 สล็อต บาคาร่า หวย แทงบอล"]
 *##[alt="มังงะวาย"]
 *##[alt="สมัครแทงบอลออนไลน์ UFABET รับโบนัส 50%"]
 *##[alt="สล็อตวอเลท"]
+*##[alt="สล็อตออนไลน์"]
+*##[href*="hengjing168"]
+*##[href*="pgk44.org"]
+*##[href*="pgslot135"]
+*##[href*="sagaming135"]
 *##[href^="https://linkstatpro.com/"]
+*##[href="https://m.hengjing168.fun"]
 *##[href="https://manga-bl.com/"]
 *##[href="https://t.ly/ssgames350"]
 *##[href="https://www.bsc.news/post/10-andab-ewbhwy-nailn-h-thitmaakthiisudainpii-2024"]
 *##[href="https://www.kirstyleanne.com/"]
 *##[href="https://www.sagame350.poker/"]
 *##[href="https://www.ufa350s.football/"]
+*##[href="pgslot135.vip"]
 *##[img*="hentai168-GIF-3.gif"]
 *##[src^="https://onlyfree.fan/images/banners/"]
 *##[src="https://69.fcmanga.com/god/ssgames350.webp"]
@@ -37,6 +47,10 @@
 *##[src="https://amz-cdn.manhwathailand.com/img/ca4525708279588c0904d0b6433369f1.gif"]
 *##[src="https://banner.xn--16-ftitt.com/inw.gif"]
 *##[src="https://manhwathailand.com/wp-content/uploads/2022/07/manga-bl.webp"]
+*##[src="https://www.go-manga.com/wp-content/uploads/2024/03/hengjing168.gif"]
+*##[src="https://www.go-manga.com/wp-content/uploads/2024/03/lucky135.gif"]
+*##[src="https://www.go-manga.com/wp-content/uploads/2024/03/pgslot135.gif"]
+*##[src="https://www.go-manga.com/wp-content/uploads/2024/04/pgk44.gif"]
 108read.com###comments
 108read.com###sidebar > div.section > div.fb-page.fb_iframe_widget
 108read.com##div.ads

@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1632
-! TimeUpdated: 2024-04-16T16:32:05+07:00
+! Version: 2024.04.16.1634
+! TimeUpdated: 2024-04-16T16:34:05+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -40,7 +40,6 @@
 *##[alt="สล็อตฟรีสปิน"]
 *##[alt="สล็อตวอเลท"]
 *##[alt="สล็อตออนไลน์"]
-*##[hre*f="https://shorturl.asia/9NsPg"]
 *##[href*="1688sagame"]
 *##[href*="168newvegas"]
 *##[href*="99tdedth"]
@@ -51,6 +50,7 @@
 *##[href*="hengjing168"]
 *##[href*="https://99tdedth.com/"]
 *##[href*="https://bit.ly/3sHnA99"]
+*##[href*="https://shorturl.asia/9NsPg"]
 *##[href*="hydra8888"]
 *##[href*="jokers123th"]
 *##[href*="lalikabet168"]

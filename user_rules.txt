@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.2112
-! TimeUpdated: 2024-04-16T21:12:33+07:00
+! Version: 2024.04.16.2113
+! TimeUpdated: 2024-04-16T21:13:05+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -250,11 +250,6 @@
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/pgslot135.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/04/pgk44.gif"]
 *##[src="https://www.niceoppai.net/wp-content/uploads/2022/05/92032932.webp"]
-</a>
-<a href="https://t.ly/hydra8888" rel="nofollow"><img src="https://img.nw-autopage.com/j/Hydra888.gif" rel="nofollow"></a>
-<a href="https://t.ly/slot6666" target="_blank" rel="nofollow">
-<a href="https://www.sagame350.poker/" target="_blank"><img src="https://69.manhwathailand.com/god/sagame350.webp" alt="คาสิโนออนไลน์ครบวงจร SAGAME350 สล็อต บาคาร่า หวย แทงบอล"></a>
-<img src="https://manga-za.net/wp-content/uploads/2024/02/jackpot.gif" width="120" alt="สล็อตฟรีสปิน" rel="nofollow" class="ads-resm loading" data-was-processed="true">
 108read.com###comments
 108read.com###sidebar > div.section > div.fb-page.fb_iframe_widget
 108read.com##div.ads

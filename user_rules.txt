@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1634
-! TimeUpdated: 2024-04-16T16:34:05+07:00
+! Version: 2024.04.16.1644
+! TimeUpdated: 2024-04-16T16:44:08+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -43,13 +43,17 @@
 *##[href*="1688sagame"]
 *##[href*="168newvegas"]
 *##[href*="99tdedth"]
+*##[href*="ambslot44"]
+*##[href*="baccarat88"]
 *##[href*="betvbee"]
 *##[href*="cobra88"]
 *##[href*="coinbet999"]
 *##[href*="gans"]
 *##[href*="hengjing168"]
 *##[href*="https://99tdedth.com/"]
+*##[href*="https://bgb.bet"]
 *##[href*="https://bit.ly/3sHnA99"]
+*##[href*="https://s.dxzvw.com/s/0xTlAq"]
 *##[href*="https://shorturl.asia/9NsPg"]
 *##[href*="hydra8888"]
 *##[href*="jokers123th"]
@@ -82,13 +86,16 @@
 *##[href^="http://www.ufa405.co"]
 *##[href^="https://168newvegas.co"]
 *##[href^="https://aff.gans.vip"]
+*##[href^="https://ambslot44.com"]
 *##[href^="https://app.mk8th.com"]
 *##[href^="https://app.tb45.ink"]
+*##[href^="https://baccarat88-th.com"]
 *##[href^="https://betvbee.com/"]
 *##[href^="https://bit.ly/3Ihaw1A"]
 *##[href^="https://bit.ly/3UMcMFv"]
 *##[href^="https://bit.ly/49imbsR"]
 *##[href^="https://cobra88.live/"]
+*##[href^="https://d3i2x4vbi609ep.cloudfront.net"]
 *##[href^="https://lcb168th.net/"]
 *##[href^="https://like88vip.com"]
 *##[href^="https://linkstatpro.com/"]
@@ -102,7 +109,7 @@
 *##[href^="https://t.ly/vip168saa"]
 *##[href^="https://upbetx1.com"]
 *##[href^="https://www.ufasexygame2.com"]
-*##[href^="ssgame350"]
+*##[href^="ssgame350"]*##[href^="https://d3i2x4vbi609ep.cloudfront.net"]
 *##[href^="www.easy45.net/"]
 *##[href="https://datoptic.com/"]
 *##[href="https://linkstatpro.com/106"]

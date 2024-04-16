@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.2120
-! TimeUpdated: 2024-04-16T21:20:08+07:00
+! Version: 2024.04.16.2123
+! TimeUpdated: 2024-04-16T21:23:59+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -139,9 +139,10 @@
 *##[href^="https://pvp888x.com"]
 *##[href^="https://sexygame992a.com"]
 *##[href^="https://t.ly/vip168saa"]
+*##[href^="https://ufabet222.company/"]
 *##[href^="https://upbetx1.com"]
 *##[href^="https://www.ufasexygame2.com"]
-*##[href^="ssgame350"]*##[href^="https://d3i2x4vbi609ep.cloudfront.net"]
+*##[href^="ssgame350"]
 *##[href^="www.easy45.net/"]
 *##[href="https://datoptic.com/"]
 *##[href="https://m.hengjing168.fun"]

@@ -1,14 +1,13 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.2114
-! TimeUpdated: 2024-04-16T21:14:58+07:00
+! Version: 2024.04.16.2116
+! TimeUpdated: 2024-04-16T21:16:05+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
-
 ###show_ads_c1
 *##[alt*="99tdedth"]
 *##[alt*="betvbee"]
@@ -143,7 +142,6 @@
 *##[href^="ssgame350"]*##[href^="https://d3i2x4vbi609ep.cloudfront.net"]
 *##[href^="www.easy45.net/"]
 *##[href="https://datoptic.com/"]
-*##[href="https://linkstatpro.com/106"]
 *##[href="https://m.hengjing168.fun"]
 *##[href="https://manga-bl.com/"]
 *##[href="https://pgk44.reviews/"]
@@ -251,7 +249,6 @@
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/pgslot135.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/04/pgk44.gif"]
 *##[src="https://www.niceoppai.net/wp-content/uploads/2022/05/92032932.webp"]
-*##a[href="https://linkstatpro.com/106"]
 108read.com###comments
 108read.com###sidebar > div.section > div.fb-page.fb_iframe_widget
 108read.com##div.ads

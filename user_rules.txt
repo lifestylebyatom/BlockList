@@ -1,14 +1,19 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2023.01.08.2032
-! TimeUpdated: 2023-01-08T20:32:34+07:00
+! Version: 2024.04.16.1317
+! TimeUpdated: 2024-04-16T13:17:52+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
+###show_ads_c1
+*##[alt="banner"]
+*##[alt="lsm65.vip"]
+*##[href^="https://linkstatpro.com/"]
 *##[img*="hentai168-GIF-3.gif"]
+*##[src^="https://onlyfree.fan/images/banners/"]
 108read.com###comments
 108read.com###sidebar > div.section > div.fb-page.fb_iframe_widget
 108read.com##div.ads
@@ -99,6 +104,7 @@ niceoppai.net###text-32
 niceoppai.net###text-33
 niceoppai.net###text-90
 niceoppai.net###text-97
+onlyfree.fan###show_ads_c1
 orztoons.com###ads728x90top
 secufiles.com###at-custom-sidebar > div.at-custom-sidebar-btns:last-child
 series-dd.co###ads728x90top
@@ -133,6 +139,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="btq-rrr"]
 *##[href*="fair-1285"]
 *##[href*="funny168"]
+*##[href*="gamepxj"]
 *##[href*="gettybet"]
 *##[href*="hotgraph88"]
 *##[href*="hydra8881"]
@@ -217,6 +224,7 @@ xn--thepratebay-fcb.se###at4-share
 *##[href*="line.me/ti/p/~@btq-rrr"]
 *##[href*="line.me/ti/p/~@fair-1285"]
 *##[href*="line.me/ti/p/~@funny168"]
+*##[href*="line.me/ti/p/~@gamepxj"]
 *##[href*="line.me/ti/p/~@gettybet"]
 *##[href*="line.me/ti/p/~@hotgraph88"]
 *##[href*="line.me/ti/p/~@hydra8881"]

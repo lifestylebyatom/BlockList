@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1448
-! TimeUpdated: 2024-04-16T14:48:49+07:00
+! Version: 2024.04.16.1613
+! TimeUpdated: 2024-04-16T16:13:55+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -11,11 +11,15 @@
 
 ###show_ads_c1
 *##[alt*="Coinbet999"]
+*##[alt*="lalikabet168"]
+*##[alt*="pgjoker69b"]
 *##[alt*="SAGAME350"]
 *##[alt*="ssgames350"]
 *##[alt*="UFABET"]
+*##[alt*="upbetx1"]
 *##[alt*="แทงบอลออนไลน์"]
 *##[alt*="คาสิโน"]
+*##[alt*="บาคาร่าออนไลน์"]
 *##[alt="banner"]
 *##[alt="lsm65.vip"]
 *##[alt="lucky135"]
@@ -31,27 +35,59 @@
 *##[alt="สล็อตวอเลท"]
 *##[alt="สล็อตออนไลน์"]
 *##[href*="1688sagame"]
+*##[href*="168newvegas"]
 *##[href*="coinbet999"]
+*##[href*="gans"]
 *##[href*="hengjing168"]
 *##[href*="hydra8888"]
+*##[href*="jokers123th"]
+*##[href*="lalikabet168"]
+*##[href*="like88vip"]
+*##[href*="mk8th"]
 *##[href*="panama8888"]
+*##[href*="pgjoker69b"]
 *##[href*="pgk44"]
 *##[href*="pgk44.org"]
 *##[href*="pgslot135"]
+*##[href*="pp9vip"]
+*##[href*="pvp888x"]
+*##[href*="sagame350"]
 *##[href*="sagaming135"]
 *##[href*="sexy1688"]
+*##[href*="sexygame992a"]
 *##[href*="slot6666"]
+*##[href*="tb45"]
 *##[href*="ufa1919"]
 *##[href*="ufafat"]
 *##[href*="ufanance"]
+*##[href*="ufasexygame2"]
+*##[href*="upbetx1"]
+*##[href^="https://168newvegas.co"]
+*##[href^="https://aff.gans.vip"]
+*##[href^="https://app.mk8th.com"]
+*##[href^="https://app.tb45.ink"]
+*##[href^="https://bit.ly/3UMcMFv"]
+*##[href^="https://bit.ly/49imbsR"]
+*##[href^="https://like88vip.com"]
 *##[href^="https://linkstatpro.com/"]
+*##[href^="https://m.jokers123th.co"]
+*##[href^="https://namchok.usun.cash"]
+*##[href^="https://pgjoker69b.com"]
+*##[href^="https://pp9vip.com"]
+*##[href^="https://pvp888x.com"]
+*##[href^="https://sexygame992a.com"]
+*##[href^="https://upbetx1.com"]
+*##[href^="https://www.ufasexygame2.com"]
+*##[href^="ssgame350"]
 *##[href="https://datoptic.com/"]
+*##[href="https://linkstatpro.com/106"]
 *##[href="https://m.hengjing168.fun"]
 *##[href="https://manga-bl.com/"]
 *##[href="https://pgk44.reviews/"]
 *##[href="https://t.ly/1688sagame"]
 *##[href="https://t.ly/coinbet999"]
 *##[href="https://t.ly/hydra8888"]
+*##[href="https://t.ly/lalikabet168"]
 *##[href="https://t.ly/panama8888"]
 *##[href="https://t.ly/sexy1688"]
 *##[href="https://t.ly/slot6666"]
@@ -65,7 +101,67 @@
 *##[href="https://www.ufa350s.football/"]
 *##[href="pgslot135.vip"]
 *##[img*="hentai168-GIF-3.gif"]
+*##[src*="คาสิโน"]
 *##[src^="https://onlyfree.fan/images/banners/"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/204x340-newvegas168-new.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/204x340-ufasexygame-new.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/88fed-ที่สุดของคาสิโนออนไลน์ยุคใหม่-A7.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/960x150.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/A1.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/A1-pvp888.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/A2.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/A3.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/A4.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/A5.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/A6.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/A7.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BL1.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BL2.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BL3.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BL3-4-2uhd.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BL4.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BL5.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BL6.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BR1.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BR2.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BR3.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BR3-4-2uhd.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BR4.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BR5.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/BR6.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/C1.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/C2.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/C3.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/C4.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/C5.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/C6.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/D1.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/D2.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/D3.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/D4.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/D5.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/D6.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/E1.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/E2.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/E3.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/E4.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/E5.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/E6.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/gif-88-2uhd-01-848x300-1-ezgif.com-optimize.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/H1.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/H2.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/H3.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/H4.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/H5.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/H6.jpg"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/คาสิโนออนไลน์.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/ป้ายหนังสั้น2.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/02/ป้ายหนังสั้น2uhd.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/03/180x600-pgjoker69-slower.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/03/180x600-sexygame9921-slow.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/03/Banner-Gif_Joker1.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/04/2UMV.GIF_final.gif"]
+*##[src="https://2umv.com/wp-content/uploads/2024/04/K1_version2_movie_giff_848_148.gif"]
 *##[src="https://69.fcmanga.com/god/ssgames350.webp"]
 *##[src="https://69.manhwathailand.com/god/sagame350.webp"]
 *##[src="https://69.manhwathailand.com/god/ufa350s.webp"]
@@ -83,13 +179,32 @@
 *##[src="https://manga-za.net/wp-content/uploads/2024/01/PGK44.gif"]
 *##[src="https://manga-za.net/wp-content/uploads/2024/02/jackpot.gif"]
 *##[src="https://manhwathailand.com/wp-content/uploads/2022/07/manga-bl.webp"]
+*##[src="https://onlyfree.fan/images/banners/1AmVMGvK7tk5wrWAXTMQdbDbNvOSwrUGIF-LSM65-เเตกจ่ายจบ.gif"]
+*##[src="https://onlyfree.fan/images/banners/v2viVs3DOZkMS1djHkcbLnpRWiRTE7Unewbanner-berlin24-11-23.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/hengjing168.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/lucky135.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/pgslot135.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/04/pgk44.gif"]
+</a>
+<a href="https://t.ly/hydra8888" rel="nofollow"><img src="https://img.nw-autopage.com/j/Hydra888.gif" rel="nofollow"></a>
+<a href="https://t.ly/slot6666" target="_blank" rel="nofollow">
+<a href="https://www.sagame350.poker/" target="_blank"><img src="https://69.manhwathailand.com/god/sagame350.webp" alt="คาสิโนออนไลน์ครบวงจร SAGAME350 สล็อต บาคาร่า หวย แทงบอล"></a>
+<img src="https://manga-za.net/wp-content/uploads/2024/02/jackpot.gif" width="120" alt="สล็อตฟรีสปิน" rel="nofollow" class="ads-resm loading" data-was-processed="true">
 108read.com###comments
 108read.com###sidebar > div.section > div.fb-page.fb_iframe_widget
 108read.com##div.ads
+2umv.com##aside[class^="banner-float"]
+2umv.com##div[class^="banner_left_bottom"]
+2umv.com##div[class^="banner_left_top"]
+2umv.com##div[class^="banner_right_bottom"]
+2umv.com##div[class^="banner_right_top"]
+2umv.com##div[class^="banner-float-bottom"]
+2umv.com##div[class^="banner-top"]
+2umv.com##ul[class^="banner_cen"]
+2umv.com##ul[class^="banner_left"]
+2umv.com##ul[class^="banner_right"]
+a href https://linkstatpro.com/106
+a[href="https://linkstatpro.com/106"]
 alpha-hen.com###colophon > div.row.ez-footer-row:first-child > div.col-sm-4:nth-child(2)
 alpha-hen.com###comment
 alpha-hen.com###content > div.row > div.col-sm-12:first-child
@@ -102,6 +217,8 @@ alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez
 alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez-col-post.ez-col-post-left:first-child > div.post-thumnail.ez-p-thum:first-child >div.ez-entry-share.eez-mobile
 alpha-hen.com###main > header:last-child > div.row.ez-row-post > div.col-sm-3.ez-col-post:first-child > div.ez-entry-share:last-child
 alpha-hen.com###sticky-dessert
+alt="เว็บคาสิโนอันดับหนึ่ง รับเครดิตฟรีทดลองเล่น"
+alt="คาสิโนออนไลน์ครบวงจร SAGAME350 สล็อต บาคาร่า หวย แทงบอล"
 animekimi.com###animekimiads\d
 animekimi.com##.animekimi-banner
 animesubthaiz.com###a.fb
@@ -126,6 +243,12 @@ doujinpost.com##div.footer-row:nth-child(4)
 doujinpost.com##footer.text-muted:nth-child(3) > div.container.text-center:last-child
 doujinpost.com##main:nth-child(2) > div.col-md-12.no-padding:first-child > div.container.text-center.padding-top-15 > div.row > div.col-md-12:first-child
 godhman.net##div.header-ads-section
+href="https://manga-bl.com/"
+href="https://www.bsc.news/post/10-andab-ewbhwy-nailn-h-thitmaakthiisudainpii-2024"
+href="https://www.kirstyleanne.com/"
+href="https://www.ufa350s.football/"
+img src="https://onlyfree.fan/images/banners/v2viVs3DOZkMS1djHkcbLnpRWiRTE7Unewbanner-berlin24-11-23.gif"
+img[alt="banner"]
 kingsmanga.net###text-20 > div.textwidget > div.text-center
 kingsmanga.net###wrapper > div.new-kingsmanga-section:nth-child(2) > div.col-md-12.text-center.padding-top-15.new-widget-width
 makimaaaaa.com###content > div.blox.mlb.kln:first-child > center
@@ -147,6 +270,7 @@ manga-za.net###ads_01
 manga-za.net###ads_02
 manga-za.net###ads_03
 manga-za.net###ads_04
+manga-za.net###ads_05
 manga-za.net##div.ads-info
 manhwathailand.com###wbnn > span.wbnn-close
 manhwathailand.com###wbnn
@@ -192,6 +316,12 @@ siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > ce
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > center:last-child > table:nth-child(5) > tbody > tr:nth-child(2)
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(3) > tbody
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(5) > tbody
+src https://69.manhwathailand.com/god/sagame350.webp
+src="https://69.fcmanga.com/god/ssgames350.webp"
+src="https://69.manhwathailand.com/god/ufa350s.webp" alt="สมัครแทงบอลออนไลน์ UFABET รับโบนัส 50%"
+src="https://amz-cdn.manhwathailand.com/img/ca4525708279588c0904d0b6433369f1.gif" alt="สล็อตวอเลท"
+src="https://banner.xn--16-ftitt.com/inw.gif"
+src="https://manhwathailand.com/wp-content/uploads/2022/07/manga-bl.webp" alt="มังงะวาย"
 th.manytoon.me##div.wrap:nth-child(9) > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 thaimanga.net##div.ads
 tt-square.com###notification

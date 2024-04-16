@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
 ! Version: 2024.04.16.2054
-! TimeUpdated: 2024-04-16T20:54:43+07:00
+! TimeUpdated: 2024-04-16T20:54:52+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -9,8 +9,6 @@
 
 ! Manual Gen - Start
 ###show_ads_c1
-##[href*="ufac4"]
-##[href*="vip168saa"]
 *##[alt*="99tdedth"]
 *##[alt*="betvbee"]
 *##[alt*="cobra88"]
@@ -107,6 +105,7 @@
 *##[href*="tb45"]
 *##[href*="ufa1919"]
 *##[href*="ufa405"]
+*##[href*="ufac4"]
 *##[href*="ufafat"]
 *##[href*="ufanance"]
 *##[href*="ufasexygame2"]

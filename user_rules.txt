@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1613
-! TimeUpdated: 2024-04-16T16:13:55+07:00
+! Version: 2024.04.16.1618
+! TimeUpdated: 2024-04-16T16:18:42+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -317,6 +317,7 @@ siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > ce
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(3) > tbody
 siambit.me##table.mainouter:nth-child(3) > tbody > tr:last-child > td.outer > table:nth-child(5) > tbody
 src https://69.manhwathailand.com/god/sagame350.webp
+src="https://69.fcmanga.com/god/ssgames350.webp"
 src="https://69.fcmanga.com/god/ssgames350.webp"
 src="https://69.manhwathailand.com/god/ufa350s.webp" alt="สมัครแทงบอลออนไลน์ UFABET รับโบนัส 50%"
 src="https://amz-cdn.manhwathailand.com/img/ca4525708279588c0904d0b6433369f1.gif" alt="สล็อตวอเลท"

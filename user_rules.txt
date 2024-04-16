@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1402
-! TimeUpdated: 2024-04-16T14:02:05+07:00
+! Version: 2024.04.16.1436
+! TimeUpdated: 2024-04-16T14:36:10+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -24,12 +24,14 @@
 *##[alt="คาสิโนออนไลน์ครบวงจร SAGAME350 สล็อต บาคาร่า หวย แทงบอล"]
 *##[alt="มังงะวาย"]
 *##[alt="สมัครแทงบอลออนไลน์ UFABET รับโบนัส 50%"]
+*##[alt="สมัครหวย 24"]
 *##[alt="สล็อตวอเลท"]
 *##[alt="สล็อตออนไลน์"]
 *##[href*="1688sagame"]
 *##[href*="hengjing168"]
 *##[href*="hydra8888"]
 *##[href*="panama8888"]
+*##[href*="pgk44"]
 *##[href*="pgk44.org"]
 *##[href*="pgslot135"]
 *##[href*="sagaming135"]
@@ -38,8 +40,10 @@
 *##[href*="ufafat"]
 *##[href*="ufanance"]
 *##[href^="https://linkstatpro.com/"]
+*##[href="https://datoptic.com/"]
 *##[href="https://m.hengjing168.fun"]
 *##[href="https://manga-bl.com/"]
+*##[href="https://pgk44.reviews/"]
 *##[href="https://t.ly/1688sagame"]
 *##[href="https://t.ly/hydra8888"]
 *##[href="https://t.ly/panama8888"]
@@ -67,6 +71,8 @@
 *##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-UFA191.gif"]
 *##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-ufafat.gif"]
 *##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-UFANANCE.gif"]
+*##[src="https://manga-za.net/wp-content/uploads/2023/08/lotto24.gif"]
+*##[src="https://manga-za.net/wp-content/uploads/2024/01/PGK44.gif"]
 *##[src="https://manhwathailand.com/wp-content/uploads/2022/07/manga-bl.webp"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/hengjing168.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/lucky135.gif"]

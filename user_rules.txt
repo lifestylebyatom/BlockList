@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.2054
-! TimeUpdated: 2024-04-16T20:54:52+07:00
+! Version: 2024.04.16.2102
+! TimeUpdated: 2024-04-16T21:02:45+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -337,6 +337,7 @@ manga-za.net###ads_03
 manga-za.net###ads_04
 manga-za.net###ads_05
 manga-za.net##div.ads-info
+manga-za.net##div[class*="mt-ad"]
 manga-za.net##div[class^="mt-ad"]
 manhwathailand.com###wbnn > span.wbnn-close
 manhwathailand.com###wbnn

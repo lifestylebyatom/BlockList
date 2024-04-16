@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1436
-! TimeUpdated: 2024-04-16T14:36:10+07:00
+! Version: 2024.04.16.1448
+! TimeUpdated: 2024-04-16T14:48:49+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -10,6 +10,7 @@
 ! Manual Gen - Start
 
 ###show_ads_c1
+*##[alt*="Coinbet999"]
 *##[alt*="SAGAME350"]
 *##[alt*="ssgames350"]
 *##[alt*="UFABET"]
@@ -21,13 +22,16 @@
 *##[alt="pgk44"]
 *##[alt="pgslot135"]
 *##[alt="เว็บคาสิโนอันดับหนึ่ง รับเครดิตฟรีทดลองเล่น"]
+*##[alt="แทงหวยฮานอย Coinbet999 เว็บหวยออนไลน์จ่ายแพงที่สุด"]
 *##[alt="คาสิโนออนไลน์ครบวงจร SAGAME350 สล็อต บาคาร่า หวย แทงบอล"]
 *##[alt="มังงะวาย"]
 *##[alt="สมัครแทงบอลออนไลน์ UFABET รับโบนัส 50%"]
 *##[alt="สมัครหวย 24"]
+*##[alt="สล็อตฟรีสปิน"]
 *##[alt="สล็อตวอเลท"]
 *##[alt="สล็อตออนไลน์"]
 *##[href*="1688sagame"]
+*##[href*="coinbet999"]
 *##[href*="hengjing168"]
 *##[href*="hydra8888"]
 *##[href*="panama8888"]
@@ -36,6 +40,7 @@
 *##[href*="pgslot135"]
 *##[href*="sagaming135"]
 *##[href*="sexy1688"]
+*##[href*="slot6666"]
 *##[href*="ufa1919"]
 *##[href*="ufafat"]
 *##[href*="ufanance"]
@@ -45,9 +50,11 @@
 *##[href="https://manga-bl.com/"]
 *##[href="https://pgk44.reviews/"]
 *##[href="https://t.ly/1688sagame"]
+*##[href="https://t.ly/coinbet999"]
 *##[href="https://t.ly/hydra8888"]
 *##[href="https://t.ly/panama8888"]
 *##[href="https://t.ly/sexy1688"]
+*##[href="https://t.ly/slot6666"]
 *##[href="https://t.ly/ssgames350"]
 *##[href="https://t.ly/ufa1919"]
 *##[href="https://t.ly/ufafat"]
@@ -72,7 +79,9 @@
 *##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-ufafat.gif"]
 *##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-UFANANCE.gif"]
 *##[src="https://manga-za.net/wp-content/uploads/2023/08/lotto24.gif"]
+*##[src="https://manga-za.net/wp-content/uploads/2023/12/3ojif6o.gif"]
 *##[src="https://manga-za.net/wp-content/uploads/2024/01/PGK44.gif"]
+*##[src="https://manga-za.net/wp-content/uploads/2024/02/jackpot.gif"]
 *##[src="https://manhwathailand.com/wp-content/uploads/2022/07/manga-bl.webp"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/hengjing168.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/lucky135.gif"]
@@ -134,6 +143,11 @@ manga-bl.com##main:nth-child(4) > div.content:first-child > div.ads
 manga-lemon.com##div.wrap:first-child > div.body-wrap > div.c-sidebar.c-top-sidebar:nth-child(2)
 manga-lemon.com##div.wrap:first-child > div.body-wrap > footer.site-footer:nth-child(4)
 mangathai.com###ads728x90top
+manga-za.net###ads_01
+manga-za.net###ads_02
+manga-za.net###ads_03
+manga-za.net###ads_04
+manga-za.net##div.ads-info
 manhwathailand.com###wbnn > span.wbnn-close
 manhwathailand.com###wbnn
 manhwathailand.com##header.header > div.blox.mlb.kln:last-child > div.dessert-frame > center

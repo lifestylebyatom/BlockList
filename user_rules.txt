@@ -1,7 +1,7 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1354
-! TimeUpdated: 2024-04-16T13:54:51+07:00
+! Version: 2024.04.16.1402
+! TimeUpdated: 2024-04-16T14:02:05+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -26,14 +26,28 @@
 *##[alt="สมัครแทงบอลออนไลน์ UFABET รับโบนัส 50%"]
 *##[alt="สล็อตวอเลท"]
 *##[alt="สล็อตออนไลน์"]
+*##[href*="1688sagame"]
 *##[href*="hengjing168"]
+*##[href*="hydra8888"]
+*##[href*="panama8888"]
 *##[href*="pgk44.org"]
 *##[href*="pgslot135"]
 *##[href*="sagaming135"]
+*##[href*="sexy1688"]
+*##[href*="ufa1919"]
+*##[href*="ufafat"]
+*##[href*="ufanance"]
 *##[href^="https://linkstatpro.com/"]
 *##[href="https://m.hengjing168.fun"]
 *##[href="https://manga-bl.com/"]
+*##[href="https://t.ly/1688sagame"]
+*##[href="https://t.ly/hydra8888"]
+*##[href="https://t.ly/panama8888"]
+*##[href="https://t.ly/sexy1688"]
 *##[href="https://t.ly/ssgames350"]
+*##[href="https://t.ly/ufa1919"]
+*##[href="https://t.ly/ufafat"]
+*##[href="https://t.ly/ufanance"]
 *##[href="https://www.bsc.news/post/10-andab-ewbhwy-nailn-h-thitmaakthiisudainpii-2024"]
 *##[href="https://www.kirstyleanne.com/"]
 *##[href="https://www.sagame350.poker/"]
@@ -46,6 +60,13 @@
 *##[src="https://69.manhwathailand.com/god/ufa350s.webp"]
 *##[src="https://amz-cdn.manhwathailand.com/img/ca4525708279588c0904d0b6433369f1.gif"]
 *##[src="https://banner.xn--16-ftitt.com/inw.gif"]
+*##[src="https://img.nw-autopage.com/j/Hydra888.gif"]
+*##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-panama888.gif"]
+*##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-sagame1688.gif"]
+*##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-sexygame1688.gif"]
+*##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-UFA191.gif"]
+*##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-ufafat.gif"]
+*##[src="https://javhdguru.co/wp-content/uploads/2024/01/728x200-UFANANCE.gif"]
 *##[src="https://manhwathailand.com/wp-content/uploads/2022/07/manga-bl.webp"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/hengjing168.gif"]
 *##[src="https://www.go-manga.com/wp-content/uploads/2024/03/lucky135.gif"]

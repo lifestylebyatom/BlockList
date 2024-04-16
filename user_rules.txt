@@ -1,19 +1,42 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.04.16.1317
-! TimeUpdated: 2024-04-16T13:17:52+07:00
+! Version: 2024.04.16.1342
+! TimeUpdated: 2024-04-16T13:42:55+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
+
 ###show_ads_c1
+*##[alt*="SAGAME350"]
+*##[alt*="ssgames350"]
+*##[alt*="UFABET"]
+*##[alt*="แทงบอลออนไลน์"]
+*##[alt*="คาสิโน"]
 *##[alt="banner"]
 *##[alt="lsm65.vip"]
+*##[alt="เว็บคาสิโนอันดับหนึ่ง รับเครดิตฟรีทดลองเล่น"]
+*##[alt="คาสิโนออนไลน์ครบวงจร SAGAME350 สล็อต บาคาร่า หวย แทงบอล"]
+*##[alt="มังงะวาย"]
+*##[alt="สมัครแทงบอลออนไลน์ UFABET รับโบนัส 50%"]
+*##[alt="สล็อตวอเลท"]
 *##[href^="https://linkstatpro.com/"]
+*##[href="https://manga-bl.com/"]
+*##[href="https://t.ly/ssgames350"]
+*##[href="https://www.bsc.news/post/10-andab-ewbhwy-nailn-h-thitmaakthiisudainpii-2024"]
+*##[href="https://www.kirstyleanne.com/"]
+*##[href="https://www.sagame350.poker/"]
+*##[href="https://www.ufa350s.football/"]
 *##[img*="hentai168-GIF-3.gif"]
 *##[src^="https://onlyfree.fan/images/banners/"]
+*##[src="https://69.fcmanga.com/god/ssgames350.webp"]
+*##[src="https://69.manhwathailand.com/god/sagame350.webp"]
+*##[src="https://69.manhwathailand.com/god/ufa350s.webp"]
+*##[src="https://amz-cdn.manhwathailand.com/img/ca4525708279588c0904d0b6433369f1.gif"]
+*##[src="https://banner.xn--16-ftitt.com/inw.gif"]
+*##[src="https://manhwathailand.com/wp-content/uploads/2022/07/manga-bl.webp"]
 108read.com###comments
 108read.com###sidebar > div.section > div.fb-page.fb_iframe_widget
 108read.com##div.ads

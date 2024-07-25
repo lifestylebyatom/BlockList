@@ -1,18 +1,20 @@
 ! Title: Atom User Rule
 ! Description: Custom User Rule By Atom
-! Version: 2024.06.16.2026
-! TimeUpdated: 2024-06-16T20:26:30+07:00
+! Version: 2024.07.25.1241
+! TimeUpdated: 2024-07-25T12:41:12+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
 
 
 ! Manual Gen - Start
+
 ###show_ads_c1
 *##[alt*="99tdedth"]
 *##[alt*="betvbee"]
 *##[alt*="cobra88"]
 *##[alt*="Coinbet999"]
+*##[alt*="huayhit88"]
 *##[alt*="lalikabet168"]
 *##[alt*="lcb168th"]
 *##[alt*="pgjoker69b"]
@@ -68,6 +70,7 @@
 *##[href*="https://t.ly/1688sagame"]
 *##[href*="https://t.ly/boston7777"]
 *##[href*="https://t.ly/coinbet999"]
+*##[href*="https://t.ly/huayhit88"]
 *##[href*="https://t.ly/hydra8888"]
 *##[href*="https://t.ly/kingdom66"]
 *##[href*="https://t.ly/lalikabet168"]
@@ -85,6 +88,7 @@
 *##[href*="https://t.ly/ufac4"]
 *##[href*="https://t.ly/ufanance"]
 *##[href*="https://t.ly/vip168saa"]
+*##[href*="huayhit88"]
 *##[href*="hydra8888"]
 *##[href*="jokers123th"]
 *##[href*="kingdom66"]
@@ -298,6 +302,7 @@ animekimi.com###animekimiads
 animekimi.com##.animekimi-banner
 animesubthaiz.com###a.fb
 animesubthaiz.com###banner
+animeyuzu.com###animekimiads2 > a
 app.raindrop.io###react > div.page-18wz.page-u56r > div.splitview-2t_-.s-40HK > aside.svSidebar:first-child > a.upgrade-1DKr:nth-child(3)
 bakaman.net##div.wrap:nth-child(2) > div.body-wrap > center:nth-child(2)
 baobua.com###divExoLayerWrapper

@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2023.10.11.1617
-! TimeUpdated: 2023-10-11T16:17:51+07:00
+! Version: 2024.08.29.1133
+! TimeUpdated: 2024-08-29T11:33:52+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -21,6 +21,7 @@
 ||lik.bz^
 ||luckydrawnews.store^
 ||mycdn.me^
+||odrnpawazl.com^
 ||reurl.cc^
 ||shifen.com^
 ||shorturl.ae
@@ -56,7 +57,7 @@ xnlyfanx.com^
 xxxbullet.com^
 xxxhub123.com^
 zihahjoxsdze.com^
-||odrnpawazl.com^
+||ais-th.top^
 ! BlockList - End
 
 ! Ads - Start

@@ -1,7 +1,7 @@
 ! Title: Atom DNS BlockList
 ! Description: Custom DNS BlockList By Atom
-! Version: 2024.09.06.1507
-! TimeUpdated: 2024-09-06T15:07:22+07:00
+! Version: 2024.10.12.0737
+! TimeUpdated: 2024-10-12T07:37:31+07:00
 ! Expires: 15 minutes (update frequency)
 ! Homepage: 
 ! License: MIT License
@@ -10,6 +10,7 @@
 ! BlockList - Start
 ||2rx.cc^
 ||ais-th.top^
+||alspoint.cc^
 ||applesupporte.com^
 ||bitly.lc^
 ||citly.me^
@@ -58,7 +59,6 @@ xnlyfanx.com^
 xxxbullet.com^
 xxxhub123.com^
 zihahjoxsdze.com^
-||alspoint.cc^
 ! BlockList - End
 
 ! Ads - Start
@@ -113,6 +113,7 @@ zihahjoxsdze.com^
 ||funny168.com^
 ||gamepxj.com^
 ||gettybet.net^
+||hedeedsaify.net^
 ||hotgraph88.co^
 ||hydra8881.com^
 ||juad888.co^
